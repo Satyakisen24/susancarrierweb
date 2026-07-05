@@ -1,0 +1,368 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+
+}
+
+body
+{
+	margin:0px;
+	padding:0px;
+	background:url(../images/body_bg.png) #000000 center top no-repeat;
+	overflow-x:hidden;
+	font-family:Tahoma !important;
+	
+}
+
+.header
+{
+	width:1600px;
+	height:114px;
+	background:url(../images/header_bg.png) no-repeat;
+}
+
+.wrapper
+{
+	width:1370px;
+	margin:0 auto;
+}
+
+.banner1
+{
+	width:1260px;
+	height:384px;
+	background:url(../images/banner1_bg.png) no-repeat;
+	margin:0 auto;
+}
+
+.woman_face
+{
+	width:368px;
+	height:365px;
+	position:relative;
+	left:840px;
+}
+
+.about_susan
+{
+	width:550px;
+	height:30px;
+	margin:10px auto 30px auto;
+	font-family:Gulim;
+	font-size:23px;
+	color:#FFFFFF;
+}
+
+.about_susan a
+{
+	font-family:Gulim;
+	font-size:23px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.banner2
+{
+	
+}
+
+.banner2_header
+{
+	width:1107px;
+	height:100px;
+	background:url(../images/banner2_heading_bg.png) no-repeat;
+	margin:0 auto;
+}
+
+.banner2_header_text
+{
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:24px;
+	width:800px;
+	margin:0 auto;
+	text-shadow:#000000;
+	position:relative;
+	top:20px;
+	text-shadow: 0 2px 0 #666666;
+}
+
+.banner2_content
+{
+	width:800px;
+	margin:10px auto 0 auto;
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:24px;
+	text-align:justify;
+}
+
+.banner2_content_about
+{
+	width:800px;
+	margin:10px auto 0 auto;
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:24px;
+	text-align:justify;
+}
+
+.banner_footer
+{
+	width:948px;
+	height:22px;
+	background:url(../images/stars_bg.png) no-repeat;
+	margin:20px auto 0 auto;
+}
+
+.banner3_header
+{
+	width:1107px;
+	height:100px;
+	background:url(../images/banner3_heading_bg.png) no-repeat;
+	margin:30px auto 0 auto;
+}
+
+.banner3_header_text
+{
+	color:#FFFFFF;
+	text-transform:uppercase;
+	font-family:Tahoma;
+	font-size:20px;
+	margin:auto;
+	width:710px;
+	text-shadow:#000000;
+	position:relative;
+	top:25px;
+}
+
+.banner3_content
+{
+	width:948px;
+	margin:30px auto 0 auto;
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:24px;
+}
+
+.banner3_content ul
+{
+	margin:0px;
+	padding:0px;
+}
+
+.banner3_content ul li
+{
+
+	list-style-type:none;
+	width:1026px;
+	height:70px;
+}
+
+.banner3_text
+{
+	float:left;
+	padding-left:35px;
+	position:relative;
+	top:-30px;
+}
+
+.banner4
+{
+	margin:50px auto 0 auto;
+	height:280px;
+	width:911px;
+}
+
+.banner4_section1
+{
+	background:url(../images/banner4_bg_1.png) no-repeat;
+	width:724px;
+	height:135px;
+}
+
+.banner4_section2
+{
+	background:url(../images/banner4_bg_2.png);
+	width:724px;
+	height:135px;
+}
+
+.banner4_section3
+{
+	background:url(../images/banner4_bg_3.png) no-repeat;
+	width:783px;
+	height:135px;
+}
+
+.banner4_section1_text
+{
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:32px;
+	text-transform:uppercase;
+	width:645px;
+	margin:auto;
+	position:relative;
+	top:5px;
+	left:40px;
+}
+
+.banner4_section2_text
+{
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:26px;
+	width:524px;
+	margin:auto;
+	position:relative;
+	top:15px;
+	left:30px;
+}
+
+.banner4_section3_text
+{
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:26px;
+	width:752px;
+	margin:auto;
+	position:relative;
+	top:15px;
+	left:5px;
+}
+
+.banner4_left
+{
+	width:267px;
+	height:256px;
+	position:absolute;
+	left:200px;
+	margin-top:20px;
+}
+
+.footer_text
+{
+	font-family:"Arial Unicode MS";
+	font-size:20px;
+	color:#af198f;
+	width:566px;
+	height:64px;
+	margin:30px auto 0 auto;
+}
+
+.header_logo
+{
+	position:relative;
+	left:180px;
+	top:15px;
+	width:369px;
+	float:left;
+}
+
+.header_text
+{
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:50px;
+	text-transform:uppercase;
+	text-shadow:#666666 1px;
+}
+
+.header_sub_text
+{
+	color:#FFFFFF;
+	font-family:Tahoma;
+	font-size:20px;
+	position:relative;
+	left:220px;
+}
+
+.header_contact
+{
+	float:left;
+	color:#FFFFFF;
+	font-family:Tahoma;
+	widows:262px;
+	position:relative;
+	left:650px;
+	top:25px;
+}
+
+.header_contact_top
+{
+	font-size:35px;
+}
+
+.header_contact_bottom
+{
+	font-size:22px;
+}
+
+.banner1_text
+{
+	width:464px;
+	height:110px;
+	position:absolute;
+	font-family:"Kozuka Gothic Pro EL";
+	color:#FFFFFF;
+	font-size:36px;
+	top:300px;
+	left:460px;
+}
+
+.banner1_text_content
+{
+	
+}
+
+.read_more
+{
+	background:url(../images/read_more_button.png) no-repeat;
+	width:115px;
+	height:36px;
+	position:relative;
+	top:10px;
+}
+
+.read_more a
+{
+	font-family:"Kozuka Gothic Pro EL";
+	color:#FFFFFF;
+	font-size:18px;
+	text-decoration:none;
+	position:relative;
+	top:5px;
+	left:5px;
+}
+
+.smokes_banner_container
+{
+	background:url(../images/smokes_bg.jpg) no-repeat;
+	width:911px;
+	height:184px;
+}
+
+.smokes_banner_text
+{
+	font-family:Tahoma;
+	font-size:18px;
+	color:#FFFFFF;
+	width:690px;
+	position:relative;
+	left:205px;
+	line-height:30px;
+	text-align:justify;
+	top:20px;
+}
+
+.read_more_index
+{
+	width:129px;
+	height:41px;
+	position:relative;
+	top:10px;
+	left:730px;
+}

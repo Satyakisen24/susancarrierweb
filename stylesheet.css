@@ -1,0 +1,318 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background:url(images/bg.png) no-repeat top center #0b0b2f;
+	padding:0px;
+	margin:0px;
+	font-family: 'Cabin', sans-serif;
+	font-size:16px;
+	position:relative;
+}
+.wrapper
+{
+	width:996px;
+	margin:0 auto;
+}
+.dwnld {float:left;width:60%; margin:20px 0 0;height:41px; border:none;clear:both;background: url('images/download-brochure.png') no-repeat right 0px transparent;transition:left 1s ease 0s;text-align:center;}
+.dwnld:hover{background:url('images/download-brochure_hover.png') no-repeat right 0px transparent;}
+.qty {width: 40px;height: 25px;text-align: center; margin:24px 0 0px 6px;}
+.logo
+{
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:26px 0px 0px 6px;
+}
+
+.call_us
+{
+	float:right;
+	background:url(images/call_us_bg.png) repeat;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	border-radius: 2px 2px 2px 2px;
+	margin:18px 0px;
+	padding:5px;
+	width:300px;
+	font-weight:bold;
+	text-align:center;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:14px;
+	text-transform:uppercase;
+	color:#000000;
+	
+	
+}
+.call_us strong
+{
+
+	font-size:28px;
+	color:#e21ec2;
+	
+}
+
+.call_us a
+{
+	font-size:20px;
+	color:#af198f;
+	text-decoration:none;
+}
+.call_us a:hover
+{
+	font-size:20px;
+	color:#af198f;
+	text-decoration:underline;
+}
+.clear
+{
+	clear:both;
+}
+
+.header
+{
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+
+.contain
+{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}
+.accordion-con{
+	float:none;	
+	}
+.contain_left
+{
+	float:left;
+	padding:15px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	
+}
+.contain_right
+{
+	float:left;
+	padding:22px 0px 0px 15px;
+	margin:0px 0px 0px 0px;	
+	color:#FFF;
+}
+.contain_right h1
+{
+	float:left;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:26px;
+	font-weight:normal;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;	
+}
+.middle_part
+{
+	background:url(images/contain_bg.png) no-repeat center;
+	float:left;
+	height:168px;
+	text-align:center;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:31px;
+	color:#fff;
+	line-height:1.4em;
+}
+.middle_part h1
+{
+	font-size:36px;
+	font-weight:normal;
+	padding:20px 0px 0px 0px;	
+	color:#e21ec2;
+}
+
+.footer_banner
+{
+	width:100%;
+	background:#07071e repeat;
+	margin:15px 0px 0px 0px;
+	padding:0px 0px 10px 0px;
+	float:left;
+	color:#FFF;
+}
+
+.footer_wrapper
+{margin:0 auto;}
+
+.ftr_left
+{
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 20px;
+}
+.ftr_left h1
+{
+	font-family: 'Signika Negative', sans-serif;
+	font-size:26px;
+	font-weight:normal;
+	color:#FFF;
+	text-decoration:none;
+	background:rgb(226, 30, 194);
+	width:145px;
+	text-align:center;
+	border-radius:10px;
+	margin:62px 0 0 0;
+	transition: all 2s ease-out 0s;
+}
+
+.ftr_left h1:hover{
+	color:rgb(226, 30, 194);
+	background:#fff;
+}
+
+.ftr_left strong
+{
+	
+	font-size:25px;
+	text-align:center;
+	font-weight:normal; 
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	color:#e11ec1;
+}
+
+.send_btn
+{
+	background:url(images/submit.png) no-repeat;
+	display:block;
+	height:32px;
+	width:108px;
+	border:none;
+	text-align:center;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+.ftr_right
+{
+	width:343px;	
+	padding:25px 0px 0px 0px;
+	margin:5px 20px 0px 0px;
+	float:right;
+	color:#000;	
+}
+.ftr_right h1
+{
+	font-family: 'Signika Negative', sans-serif;
+	font-size:26px;
+	font-weight:normal;
+	color:#fff;
+	padding:10px 0px 10px 0px;
+	margin:0px;
+}
+
+.testi
+{
+	background:url(images/vidacard.jpg) no-repeat;
+	display:block;
+	width:285px;
+	height:42px;
+	float:left;
+	color:#1c1c1c;
+	line-height:1.4em;
+	padding:15px 10px 15px 25px;
+	margin:0px 0px 0px 0px;
+}
+.testi strong
+{
+	float:right;
+	color:#e11ec1;
+	font-weight:normal;
+	padding:30px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+.brd
+{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	
+	
+}
+/*---------22/12/2013---------*/
+.terms h6{ float: left; font-family: 'Signika Negative',sans-serif; font-size: 26px; font-weight: normal; padding:148px 0px 25px; margin: 0px; color:#fff; clear:both; }
+.terms h5{ float: left; font-family: 'Signika Negative',sans-serif; font-size: 26px; font-weight: normal; padding:25px 0px 20px; margin: 0px; color:#fff; clear:both; }
+
+.terms a, p{ font-family: 'Cabin',sans-serif; font-size: 16px; color:#fff; line-height: 23px; text-align: justify; clear:both;}
+.txt, .txt a 
+{
+	text-align:center;
+	padding:0px 0px 0px 0px;
+	margin:15px 0px 10px 0px;
+	color:#fff;
+	text-decoration:none;
+	transition:all 4s ease-out; clear:both;
+}
+
+.txt a:hover
+{
+color:#e21ec2
+}
+ 
+/*---------01/01/2014---------*/
+
+/*--- navigation ---*/
+.nav{ width:99.4%; background:rgb(226, 30, 194);float:left; margin:11px 0 19px; text-transform:uppercase;}
+.nav ul{ margin:0; padding:0;}
+.nav ul li{ float:left; list-style:none; position:relative; border-left:1px dotted #f9c961;}
+.nav ul li:first-child{ border:none;}
+.nav ul li a{ font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:16px; color:#fff; text-decoration:none; display:block; font-weight:normal; text-transform:capitalize; padding:10px 20px; -moz-transition:background 0.4s ease 0.10s; -webkit-transition:background 0.4s ease 0.10s; -o-transition:background 0.4s ease 0.10s; -ms-transition:background 0.4s ease 0.10s; transition:background 0.4s ease 0.10s;}
+.nav ul li a:hover{background:#0b0b2f;}
+.navbar-inverse {float: left; width: 100%;}
+.contain h1
+{
+	font-size:36px;
+	font-weight:normal;
+	padding:20px 0px 0px 0px;
+	margin:0px 0px 0px 0px;	
+	color:#e21ec2;
+	clear:none;
+}
+
+.contain h2
+{
+	float:left;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:26px;
+	font-weight:normal;
+	padding:16px 0 11px 16px;
+	margin:0px 0px 0px 0px;
+	color:#fff;
+	clear:none;
+}
+.accordion-con p{
+	color:#000 !important;
+	}
+.contain p{
+	color:#fff;
+	font-family: 'Cabin', sans-serif;
+	font-size:16px;
+	clear:both;
+}
+.contain a{
+	color:#fff;
+	font-family: 'Cabin', sans-serif;
+	font-size:18px;
+	text-decoration:none;
+	clear:none;
+}
+.contain img{float:left; padding:0;}
+.contain ul li {
+	color:#fff;
+	font-family: 'Cabin', sans-serif;
+	font-size:16px;
+	clear:none;}
+.contain-left img{float:left; margin:23px 0 0; padding:0; clear:both}
+.contain-left span img{float:left; margin:25px 0px 30px; padding:0; clear:both}
+.contain-right img{float:left; margin:23px 0 0; padding:0; clear:both}
+.contain-right span img{float:left; margin:25px 0px 30px; padding:0; clear:both}
+.book-btn{background:url(images/buy_btn.jpg) 0 0 no-repeat; border:none; width:240px; height:46px; cursor:pointer;}
+.contain-left h3, .contain-right h3{float:left;font-family: 'Signika Negative', sans-serif;font-size:26px;font-weight:normal;padding:0px;margin:0px 0px 0px 0px;color:#fff;clear:none;width:100%;}
+.contain-left h5, .contain-right h5{font-size:36px;font-weight:normal;padding:20px 0px 0px 0px;margin:0px 0px 0px 0px;color:#e21ec2;clear:none; clear:both;}
+.counter{left: 0; position: fixed; top: 500px;}

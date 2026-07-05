@@ -1,0 +1,555 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id=GTM-W3KB123';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3KB123');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Analytics GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W3KB123"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-W3KB123');
+</script>
+
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta name="author" content="Susan Carrier" />
+<meta name="language" content="en" />
+<meta name="revisit-after" content="7 days" />
+<meta name="rating" content="General" />
+<meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="https://www.susancarrier.com/" />
+
+<meta name="geo.region" content="AU-QLD" />
+<meta name="geo.placename" content="Brisbane" />
+<meta name="geo.position" content="-27.5002;153.0940" />
+<meta name="ICBM" content="-27.5002,153.0940" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Best Psychic, Best Psychic Brisbane, Psychic in Brisbane, Psychic in Southbank, Psychic in Wynnum, psychic, clairvoyant, medium, Psychic teacher, Charmaine, haunted house, clearings, spells, spell protection, best psychic reading Brisbane, house clearings, Tarot, Psychic book, psychic teacher, clairvoyant medium, clairvoyant Brisbane, Susan Carrier, The Good One, Charmaine The Good One, Charmaine, Psychic, psychic in Brisbane, Psychic Brisbane, Adelaide, Perth, Sydney, Melbourne, Brisbane, Angel Readings, Medium, Medium Readings, Tarot cards, Tarot, Future Readings, Read your future, Read your future Readings">
+
+<meta name="description" content="We are psychic and clairvoyant specialists based in Brisbane, including Southbank Wynnum,Canberra,Mt.Gravatt and Upper Mt Gravatt. We offer psychic tuition, psychic books, Reiki courses, demon protection, and live psychic readings for just $100 per 30 minutes." />
+
+<title>Psychic Brisbane | Clairvoyant in Brisbane,Southbank,Wynnum,Canberra,Mt Gravatt | Susan Carrier | Psychic Book | Angel Reading Brisbane</title>
+<!-- ✅ Open Graph Meta Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Clairvoyant in Brisbane | Susan Carrier" />
+<meta property="og:description" content="Book a live reading with Susan Carrier – Brisbane’s trusted psychic now serving Southbank, Wynnum, Canberra, Mt Gravatt. Spiritual guidance, energy healing, and more." />
+<meta name="twitter:description" content="Accurate psychic readings, spell protection, and spiritual help in Brisbane, Southbank,Canberra,Mt Gravatt and Wynnum with Susan Carrier." />
+
+<meta property="og:url" content="https://www.susancarrier.com/" />
+<meta property="og:image" content="https://www.susancarrier.com/images/susan.jpg" />
+
+<!-- ✅ Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Susan Carrier - Clairvoyant in Brisbane" />
+<meta name="twitter:description" content="Accurate psychic readings, spell protection, and spiritual help with Susan Carrier." />
+<meta name="twitter:image" content="https://www.susancarrier.com/images/susan.jpg" />
+<!-- ✅ JSON-LD Schema Markup for Local SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Susan Carrier - Psychic & Clairvoyant",
+  "image": "https://www.susancarrier.com/images/susan.jpg",
+  "@id": "https://www.susancarrier.com",
+  "url": "https://www.susancarrier.com",
+  "telephone": "+61 0738436419",
+  "areaServed": [
+  "Brisbane",
+  "South Bank",
+  "Wynnum",
+  "Gold Coast",
+  "Canberra",
+  "Mt Gravatt",
+  "Upper Mt Gravatt"
+],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "610 Darcy Road Carina",
+    "addressLocality": "Brisbane",    
+    "addressRegion": "QLD",
+    "postalCode": "4152",
+    "addressCountry": "AU"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -27.4698,
+    "longitude": 153.0251
+  },
+  "openingHours": "Mo-Sa 10:00-18:00",
+  "description": "Susan Carrier is a renowned psychic and clairvoyant in Brisbane,including Southbank,Wynnum offering spiritual readings, spell protection, and psychic tuition.",
+  "priceRange":"$50 - $100",
+  "sameAs": [
+    "https://www.facebook.com/susancarrierpsychic",
+    "https://www.instagram.com/susancarrierclairvoyant"
+  ]
+}
+</script>
+
+
+<style>
+.mySlides {display:none;}
+</style>
+
+<link href="stylesheet.css" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Signika+Negative:400,600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Cabin:400,500' rel='stylesheet' type='text/css'>
+
+
+<link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="css/validationEngine.jquery.css" type="text/css"/>
+ <script src="js/jquery-1.5.1.min.js" type="text/javascript"></script>
+ <script src="js/languages/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
+ <script src="js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+        <script>
+            jQuery(document).ready(function(){
+                // binds form submission and fields to the validation engine
+                jQuery("#formID").validationEngine();
+            });
+            
+            /**
+             *
+             * @param {jqObject} the field where the validation applies
+             * @param {Array[String]} validation rules for this field
+             * @param {int} rule index
+             * @param {Map} form options
+             * @return an error string if validation failed
+             */
+            function checkHELLO(field, rules, i, options){
+                if (field.val() != "HELLO") {
+                    // this allows to use i18 for the error msgs
+                    return options.allrules.validate2fields.alertText;
+                }
+            }
+        </script>
+
+<!--<script type="text/javascript">
+function poponload()
+{
+    testwindow = window.open("popup.html", "mywindow", "location=1,status=1,scrollbars=1,width=1025,height=455");
+    testwindow.moveTo(0, 0);
+}
+</script>-->
+<style>
+
+.Wanted-Haunted-House-btn {left: 5px;position: fixed;top: 169px;}
+
+.spirit_haunted {
+    left: 5px;
+    position: fixed;
+    top: 368px;
+}
+
+.book-btn2 {
+    position: fixed;
+    right: 5px;
+    top: 169px;
+}
+
+.spell-btn {
+    position: fixed;
+    right: 5px;
+    top: 346px;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="swc.css">
+</head>
+
+<body onload="javascript: poponload()">
+<!--<div class="book-btn2"><a href="http://susancarrier.com/robbie_williams.html"><img src="images/book-btn2.gif"></a></div>
+<div class="Wanted-Haunted-House-btn"><a href="http://susancarrier.com/haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif"></a></div>
+<div class="spirit_haunted"><a href="http://susancarrier.com/haunted_house.html"><img src="images/spirit_haunted.gif"></a></div>
+<div class="spell-btn"><a href="http://www.susancarrier.com/spells.html"><img src="images/spell-btn.gif"></a></div>-->
+<div class="counter">
+<!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script><script type="text/javascript">sc_hit(1532336,16,3);</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+</div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-W3KB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3KB');</script>
+<!-- End Google Tag Manager -->
+
+<div class="container">
+
+<!--TOP PART START-->
+<div id="boxes">
+<div style="top: 50%; left: 50%; display: none;" id="dialog" class="window"> 
+<div id="san">
+<a href="#" class="close agree"><img src="images/9110796_x_icon.png" width="25" style="float:left; margin-right: 366px; margin-top: 70px;"></a>
+<img src="images/advertisment.jpg" width="750">
+</div>
+</div>
+<!--<div style="width: 2478px; font-size: 32pt; color:white; display: none; opacity: 0.4; height:0" id="mask"></div>-->
+</div>
+
+
+<div class="top_part">
+	<div class="logo"><a href="index.html"><img src="images/logo.png" width="313" height="91" border="0" /></a></div>
+     
+    <div class="call_us">Call Us: <br />
+    OverSeas (617) and interstate  (07) <br />
+    <strong>073843 6419 </strong><br />
+	(Available 24x7)<br />
+	sue_carrier2003@yahoo.com.au
+</div>
+
+</div>
+<div class="top_part">
+	<!--<div class="happy-home-mailer-button"><a href="https://www.susancarrier.com/happy_home.html"><img src="images/hhm-button.png" width="1140" height="70" border="0" /></a></div>-->
+</div>
+
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script> 
+<script src="js/swc.js"></script>
+
+
+
+<!--TOP PART END-->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a href="music.html">Music</a></li>
+        <li><a href="inventions.html">Inventions</a></li>
+        <li><a href="teaching.html">Teachings</a></li>
+        <li><a href="book.html">Books</a></li>
+		<li><a href="haunted_house.html">House Clearings</a></li>
+		<li><a href="spells.html">Spells Protection</a></li>
+		<li><a href="my-vision.html">My Vision</a></li>
+        <!--<li class="dropdown"><a href="haunted_house.html" class="dropdown-toggle" data-toggle="dropdown">Haunted House <span class="caret"></span></a>
+        	<ul class="dropdown-menu">
+            	<li><a href="spells.html">Spells Protection</a></li>
+            </ul>  
+        </li>-->
+        <li><a href="robbie_williams.html">Robbie Williams</a></li>
+        <li><a href="electronic.html">Electronic Smokes</a></li>
+        <li><a href="the_messiahs_diet.html">The Messiahs Diet</a></li>
+        <li><a href="happy_home.html">Happy Home Mailer</a></li>
+		<li><a href="prime_minister.html">Prime Minister</a></li>   
+		<li><a href="protection.html">Spiritual protection  self Defense</a></li>
+		<li><a href="my-vision.html">My Vision</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="clear"></div>
+
+
+<!--HEADER PART START-->
+<!--<div style="text-align:center;">                 
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="989" height="390">
+       <param name="movie" value="flash/FLASH1.swf" />
+       <param name="quality" value="high" />
+       <embed src="flash/FLASH1.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="989" height="390"></embed>
+    </object>    
+</div>-->
+
+<!-- Start Bootstrap Carousel BODY section -->
+<div class="slideshow-container">
+
+
+<div class="w3-content w3-section">
+<img class="mySlides" src="images/bookimg1.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg7.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg1.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg5.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg6.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg8.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg4.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg2.jpg" style="width:100%">
+<img class="mySlides" src="images/sliderimg4.jpg" style="width:100%">
+</div>
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 3000); // Change image every 2 seconds
+}
+</script>
+
+<center>
+<a href="https://www.susancarrier.com/robbie_williams.html"><img src="images/readbooks.gif" /></a>
+</center>
+<!--<center>
+<h3 style="color: #000; background: #fff; padding: 20px; font-size:20px">Work from home Make your Computer a money-making machine Daily income If you have lots of contacts in your email box, this is the business for you 20 minutes a day, for an income coming in every day...<a href="https://www.thehappyhomemailer.com/charmainethegoodone">Click Here</a></h3>
+</center>-->
+<br>
+
+
+
+<center>
+<div class="dwnld-btn" style="color:#fff;">
+<a target="_blank" href="http://dstats.net/download/http://susancarrier.com/brochure.php">
+	<span class="dwnld">
+    <script type='text/javascript' src='http://dstats.net/js/dstracker.js'></script>
+<a href='http://dstats.net/dstatsjs.php?file=http://susancarrier.com/brochure.php' onclick='return dstatstracker(this);' style="color:#fff; text-decoration:none;">Total No of Downloads:</a>
+<script type='text/javascript' src='http://dstats.net/dstatsjs.php?file=http://dstats.net/dstatsjs.php?file=http://susancarrier.com/brochure.php'></script>
+<script type='text/javascript'>document.write(dsCounter);</script>
+	</span>
+</a>
+<p style="text-align:center">Please download brochure on your desktop for future</p>
+</div>
+</center>
+<!--<div class="middle_part container">
+<h1>LIVE PSYCHIC READINGS – Only $1.97 Per Minute.</h1>
+In Brisbane? Face to Face Psychic Readings Available – Bookings Essential.
+
+
+</div>-->
+<!--MIDDLE PART END-->
+<div class="clear"></div>
+
+<!--CONTAIN PART START-->
+<div class="contain">
+<div class="col-sm-4">
+	<div class="contain_left"> 
+	<img src="images/middle_contain.png" width="207" height="207" border="0" style="float:left; padding:0; margin:0; clear:none; min-width:0px"/> 
+	<img src="images/brackets.png" border="0"  style="float:left; padding:0; margin:0; clear:none; min-width:0px"/></div>
+	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif"></a></div>
+	<div class=""><a href="http://susancarrier.com/robbie_williams.html"><img src="images/book-btn2.gif"></a></div>
+	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/spirit_haunted.gif"></a></div>
+	<div class=""><a href="http://www.susancarrier.com/spells.html"><img src="images/spell-btn.gif"></a></div>
+</div>
+<div class="col-sm-4">
+	
+<div>
+<h3 style="color: #fff">Donation</h3>
+<a href="javascript:void(0)" target="_blank"><img src="images/Donation.jpg" alt="Donation" /><p style="clear:both">Click on to Donation</p></a>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_self" style="float: left;">
+<input type="hidden" name="cmd" value="_xclick" />
+<input type="hidden" name="business" value="sue_carrier2003@yahoo.com.au"/>
+<input type="hidden" name="item_name" value="Books"/>
+<input type="hidden" name="amount" value="1"/>
+<input type="hidden" name="currency_code" value="CAD"/>
+<input type="hidden" name="lc" value="CA"/>
+<input type="hidden" name="bn" value="btn_buynow_SM.gif"/>
+<input type="hidden" name="weight_unit" value="kgs"/>
+<input type="hidden" value="US" name="lc"><input type="submit" value="Click here to pay" name="B1" style="text-align: center; width: 100%;background: #e21ec2;border: none;height: 40px;color: #fff;font-weight: bold;">
+</form>
+<p style="background-color: darkmagenta; padding: 10px; margin-bottom: 30px; float: left;"><strong>Bank Account Details:</strong><br>
+SUNCORP EOPTIONS<br>
+053691799<br>
+BSB 484 799</p>
+</div>	
+
+
+</div>
+<div class="col-sm-4">
+    <img src="images/special.jpg"
+         alt="Special Offer"
+         style="width:300px !important;height:auto !important;">
+</div>
+<div class="col-sm-12">
+<div class="contain_right"><h1>One of Australia's Leading Psychics  !</h1><br />
+<br /><br />
+
+<p>Susan Carrier is a well-known Psychic Clairvoyant Medium Teacher, who is regularly sort after by the Media. She can give you accurate psychic readings from Guardian Angles on your relationships, career, pets, passed loved ones, wealth and your health.</p>
+<p>Also 99% of the time she can predict what you do for a career or tell you what you really should be doing for a career.</p>
+<h2>Psychic Readings Across Brisbane and Surrounding Areas</h2>
+
+<p>
+Susan Carrier provides psychic readings and clairvoyant services throughout Brisbane,
+South Bank, Wynnum, Carina, Mt Gravatt, Upper Mt Gravatt, Gold Coast and Canberra.
+</p>
+<p style="color: #000;
+    background: #D4AF37;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;">Pensioners Discounts</p>
+<h1>Hi, <span>I&#39;m Susan.</span> I&#39;m one of the rare Mediums that you will ever encounter that can actually tell you things.</h1>
+
+<h1 class="page-title">Best Psychic Readings in Brisbane - Psychic eBook Guides and clairvoyant training by Charmaine The Clairvoyant Psychic Medium</h1>
+
+<p>I can help patch up a Relationship or tell you where the right one for you is. I&#39;m not your&nbsp;average Psychic, I truly use my gift by Guardian Angels and have well known celebrities around me like Nostradamus and Elvis Presley. God is also my Teacher.&nbsp; Also I can repeat word for word what loved ones from the other side are saying and what they are up to now. Even what they think about their will etc. I can even tell you how they died or&nbsp;what your pets are thinking.&nbsp;Do they love their food or what is wrong with them?</p>
+
+<p>I am also a Teacher.&nbsp; If you would like to see your own future and get in touch with your own Guardian Angels,call me. And I have the perfect Demon protection for those that are the victim of Spiritual warfare. The New Age Bible is a Psychic Clairvoyants Manual for those that want to learn to be the best psychic. It can be purchased and downloaded online from Amazon Kindle or the Google PlayStore.&nbsp;Scroll down if you would like more info on the kind of Medium I am and what my future lies for you.</p>
+
+<!--<h1>I Choose to be an Honest Psychic !</h1>
+<p>My Guardian Angels said, - Would you like to be a Psychic that gives them what they want to hear? And make money..... Or be an honest Psychic and make no money- But Alisa (God) will make you "The One" I choose to be an honest Psychic.....</p>
+<p>Too many of my Clients are sick and I have to turn them away....You must not be depressed for the past couple of days , as their will be no energies Very relaxed, that means no walking dog, cleaning house, work, mowing the lawn , and shopping ect And well fed and not tired... This is why so many Psychics give poor Psychic readings and basically try to get away with it... If you want a really decent reading, make sure the above is taken care of, and give me a call... If it don't work out, you can call me back, no problems...</p>
+<p>If you are a Psychic that makes money,  and gives them basically what they want to hear You will have to pay them all back, when you pass over...cheers !</p>
+<p>Wolfs in white sheet clothing !</p>
+<p><strong>So many Psychics do the wrong thing and cast "Spells"</strong> They will eventually pay for it, and be sorry...Everyone should protect themselves. I do this for a small fee, every day for you. Please check my info...</p>-->
+	
+ </div>
+</div>
+</div>
+<!--CONTAIN PART END-->
+
+
+
+
+</div>
+
+<div class="clear"></div>
+<!--MIDDLE PART START-->
+<div class="container">
+ <div class="row">
+ 	<div class="col-sm-12">
+<div class="footer_banner">
+
+	<div class="footer_wrapper">
+            	
+            	<div class="ftr_left">
+                <!--<a href="http://www.susancarrier.com/contactform_free/contactform.htm"><h1>REGISTER</h1></a>-->
+                <script type="text/javascript">
+(function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/9/5/9597706e796728290520a29ccde81226/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
+</script>
+                <p>For more about SUSAN CARRIER please contact us.<br />
+				<!--610 Darcy Road Carina Brisbane 4152<br />-->
+				sue_carrier2003@yahoo.com
+				</p>
+                	
+           		</div>  
+                
+<div  class="ftr_right" align="center">
+<p style="color:#fff">30 Minutes Psychic Readings by Phone</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input type="hidden" name="cmd" value="_xclick" />
+<input type="hidden" name="business" value="sue_carrier2003@yahoo.com.au"/>
+<input type="hidden" name="item_name" value="30 Minutes Readings by Phone for $100.00 AUD"/>
+<input type="hidden" name="amount" value="100"/>
+<input type="hidden" name="currency_code" value="AUD"/>
+<input type="hidden" name="lc" value="AUD"/>
+<input type="hidden" name="bn" value="btn_buynow_SM.gif"/>
+<input type="hidden" name="weight_unit" value="kgs"/>
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynow_SM.gif" name="submit" alt="Make payments with PayPal"/>
+</form>
+<hr />
+<p style="color:#fff">30 Minutes Psychic Readings in Person</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input type="hidden" name="cmd" value="_xclick" />
+<input type="hidden" name="business" value="sue_carrier2003@yahoo.com.au"/>
+<input type="hidden" name="item_name" value="30 Minutes Readings in Person for $100.00 AUD"/>
+<input type="hidden" name="amount" value="100"/>
+<input type="hidden" name="currency_code" value="AUD"/>
+<input type="hidden" name="lc" value="AUD"/>
+<input type="hidden" name="bn" value="btn_buynow_SM.gif"/>
+<input type="hidden" name="weight_unit" value="kgs"/>
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynow_SM.gif" name="submit" alt="Make payments with PayPal"/>
+</form>
+</div> 
+<!--<div class="testi"></div>--> 
+<!--</div>
+ <div class="row">
+ 	<div class="col-sm-12">
+<div class="txt"><a href="mailto:sue_carrier2003@yahoo.com.au">Mail Us</a> | <a href="terms&condition.html"> Tearm & Condition</a> | <a href="privacypolicy.html"> Privacy Policy</a> | Copyright © 2013 Susan Carrier . All Rights Reserved.</div>
+	</div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+
+<center>
+<div style="color:#fff">
+<script type='text/javascript' src='http://dstats.net/sitetracker.php?url=http://susancarrier.com'></script>
+	No of Visitors:<script type='text/javascript'>document.write(dsCounter);</script>
+</div>
+</center> -->
+<!--MIDDLE PART END-->
+<script type="text/javascript">
+(function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/9/5/9597706e796728290520a29ccde81226/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
+</script>
+
+ <!-- Google Map Location -->
+  <section style="text-align: center; padding: 40px 20px; background-color: #12132b;">
+    <h2 style="color: #ffd700;">Visit Susan Carrier</h2>
+    <p style="font-size: 16px;">
+      📍 610 Darcy Road, Carina, Brisbane, QLD 4152, Australia
+    </p>
+    <div style="margin: 20px auto; max-width: 600px; border-radius: 10px; overflow: hidden;">
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3539.2704009999333!2d153.0939531!3d-27.500225584417985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a7399e7e8b3%3A0x9d77c9280d0ae193!2s610%20Darcy%20Rd%2C%20Carina%20QLD%204152%2C%20Australia!5e0!3m2!1sen!2sin!4v1722175536962!5m2!1sen!2sin"
+        width="100%" 
+        height="300" 
+        style="border:0;" 
+        allowfullscreen 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </div>
+  </section>
+ <!-- Footer Links -->
+          <div style="text-align: center; margin-top: 40px;">
+            <a href="mailto:sue_carrier2003@yahoo.com.au" style="color: #00bfff;">Mail Us</a> |
+            <a href="terms&condition.html" style="color: #00bfff;">Terms & Conditions</a> |
+            <a href="privacypolicy.html" style="color: #00bfff;">Privacy Policy</a>
+            <p style="margin-top: 10px;">© 2025 Susan Carrier. All Rights Reserved.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+ 
+
+  <!-- Visitor Counter -->
+  <center>
+    <div style="color:#fff; padding: 20px;">
+      <script type='text/javascript' src='http://dstats.net/sitetracker.php?url=http://susancarrier.com'></script>
+      No of Visitors: <script type='text/javascript'>document.write(dsCounter);</script>
+    </div>
+  </center>
+
+</body>
+</html>
+
+</body>
+</html>

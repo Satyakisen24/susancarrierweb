@@ -1,0 +1,242 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background:url(images/bg.png) no-repeat top center #0b0b2f;
+	padding:0px;
+	margin:0px;
+	font-family: 'Cabin', sans-serif;
+	font-size:16px;
+}
+.wrapper
+{
+	width:996px;
+	margin:0 auto;
+}
+
+.top_part
+{
+	width:996px;
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+.logo
+{
+	width:250px;
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:26px 430px 0px 6px;
+}
+
+.call_us
+{
+	float:right;
+	background:url(images/call_us_bg.png) repeat-x;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	border-radius: 2px 2px 2px 2px;
+	padding:5px 20px 5px 20px;
+	margin:18px 12px 0px 0px;
+	width:242px;
+	height:72px;
+	font-weight:bold;
+	text-align:center;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:28px;
+	text-transform:uppercase;
+	color:#000000;
+	
+	
+}
+.call_us strong
+{
+
+	font-size:34px;
+	color:#e21ec2;
+	
+}
+
+.call_us a
+{
+	font-size:20px;
+	color:#af198f;
+	text-decoration:none;
+}
+.call_us a:hover
+{
+	font-size:20px;
+	color:#af198f;
+	text-decoration:underline;
+}
+.clear
+{
+	clear:both;
+}
+
+.header
+{
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+
+.contain
+{
+	width:996px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	float:left;
+}
+.contain_left
+{
+	float:left;
+	width:280px;
+	padding:15px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	
+}
+.contain_right
+{
+	float:left;
+	width:685px;
+	padding:22px 0px 0px 15px;
+	margin:0px 0px 0px 0px;	
+	color:#FFF;
+}
+.contain_right h1
+{
+	float:left;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:26px;
+	font-weight:normal;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;	
+}
+.middle_part
+{
+	background:url(images/contain_bg.png) no-repeat;
+	float:left;
+	width:992px;
+	height:168px;
+	text-align:center;
+	margin:15px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:31px;
+	color:#fff;
+	line-height:1.4em;
+}
+.middle_part h1
+{
+	font-size:36px;
+	font-weight:normal;
+	padding:20px 0px 0px 0px;
+	margin:0px 0px 0px 0px;	
+	color:#e21ec2;
+}
+
+.footer_banner
+{
+	width:100%;
+	background:#07071e repeat;
+	margin:15px 0px 0px 0px;
+	padding:0px 0px 10px 0px;
+	float:left;
+	color:#FFF;
+}
+
+.footer_wrapper
+{
+	width:996px;
+	margin:0 auto;		
+}
+
+.ftr_left
+{
+	width:600px;
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:0px 50px 0px 0px;
+}
+.ftr_left h1
+{
+	font-family: 'Signika Negative', sans-serif;
+	font-size:26px;
+	font-weight:normal;
+	color:#fff;
+}
+.ftr_left strong
+{
+	
+	font-size:25px;
+	text-align:center;
+	font-weight:normal; 
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	color:#e11ec1;
+}
+
+.send_btn
+{
+	background:url(images/submit.png) no-repeat;
+	display:block;
+	height:32px;
+	width:108px;
+	border:none;
+	text-align:center;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+.ftr_right
+{
+	width:343px;	
+	padding:25px 0px 0px 0px;
+	margin:5px 0px 0px 0px;
+	float:left;
+	color:#000;	
+}
+.ftr_right h1
+{
+	font-family: 'Signika Negative', sans-serif;
+	font-size:26px;
+	font-weight:normal;
+	color:#fff;
+	padding:10px 0px 10px 0px;
+	margin:0px;
+}
+
+.testi
+{
+	background:url(images/vidacard.jpg) no-repeat;
+	display:block;
+	width:285px;
+	height:42px;
+	float:left;
+	color:#1c1c1c;
+	line-height:1.4em;
+	padding:15px 10px 15px 25px;
+	margin:0px 0px 0px 0px;
+}
+.testi strong
+{
+	float:right;
+	color:#e11ec1;
+	font-weight:normal;
+	padding:30px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+.brd
+{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	
+	
+}
+.txt
+{
+	text-align:center;
+	padding:0px 0px 0px 0px;
+	margin:15px 0px 10px 0px;
+}
