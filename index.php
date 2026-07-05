@@ -39,21 +39,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <title>Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Best Psychic, Best Psychic Brisbane, Psychic in Brisbane, Psychic in Southbank, Psychic in Wynnum, psychic, clairvoyant, medium, Psychic teacher, Charmaine, haunted house, clearings, spells, spell protection, best psychic reading Brisbane, house clearings, Tarot, Psychic book, psychic teacher, clairvoyant medium, clairvoyant Brisbane, Susan Carrier, The Good One, Charmaine The Good One, Charmaine, Psychic, psychic in Brisbane, Psychic Brisbane, Adelaide, Perth, Sydney, Melbourne, Brisbane, Angel Readings, Medium, Medium Readings, Tarot cards, Tarot, Future Readings, Read your future, Read your future Readings">
+<meta name="keywords" content="Best Psychic, Best Psychic Brisbane, Psychic in Brisbane, Psychic in Southbank, Psychic in Wynnum, Psychic in Carina, Psychic in Chermside, Psychic in New Farm, Psychic in Paddington, Psychic in Mt Gravatt, Psychic in Indooroopilly, Psychic in Sunnybank, Psychic in Bulimba, clairvoyant Brisbane, Susan Carrier, Tarot, Medium, Angel Readings, Future Readings, Brisbane">
 
-<meta name="description" content="Susan Carrier is a trusted psychic and clairvoyant in Brisbane. Offering accurate readings, Reiki courses, and spiritual protection. Book a session today." />
+<meta name="description" content="Susan Carrier is a trusted psychic & clairvoyant in Brisbane. Accurate readings and spiritual healing serving Carina, South Bank, Wynnum, and all suburbs." />
 
 <!-- ✅ Open Graph Meta Tags -->
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier" />
-<meta property="og:description" content="Susan Carrier is a trusted psychic and clairvoyant in Brisbane. Offering accurate readings, Reiki courses, and spiritual protection." />
+<meta property="og:description" content="Susan Carrier is a trusted psychic & clairvoyant in Brisbane. Accurate readings serving Carina, South Bank, Wynnum, Chermside, and all suburbs." />
 <meta property="og:url" content="https://www.susancarrier.com/" />
 <meta property="og:image" content="https://www.susancarrier.com/images/susan.jpg" />
 
 <!-- ✅ Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier" />
-<meta name="twitter:description" content="Susan Carrier is a trusted psychic and clairvoyant in Brisbane. Offering accurate readings, Reiki courses, and spiritual protection." />
+<meta name="twitter:description" content="Susan Carrier is a trusted psychic & clairvoyant in Brisbane. Accurate readings serving Carina, South Bank, Wynnum, Chermside, and all suburbs." />
 <meta name="twitter:image" content="https://www.susancarrier.com/images/susan.jpg" />
 <!-- ✅ JSON-LD Schema Markup for Local SEO -->
 <script type="application/ld+json">
@@ -66,14 +66,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "url": "https://www.susancarrier.com",
   "telephone": "+61 0738436419",
   "areaServed": [
-  "Brisbane",
-  "South Bank",
-  "Wynnum",
-  "Gold Coast",
-  "Canberra",
-  "Mt Gravatt",
-  "Upper Mt Gravatt"
-],
+    "Brisbane",
+    "Carina",
+    "South Bank",
+    "Wynnum",
+    "Chermside",
+    "New Farm",
+    "Paddington",
+    "Mt Gravatt",
+    "Upper Mt Gravatt",
+    "Indooroopilly",
+    "Sunnybank",
+    "Fortitude Valley",
+    "Coorparoo",
+    "Manly",
+    "West End",
+    "Bulimba",
+    "Hamilton",
+    "Toowong",
+    "Ascot",
+    "Morningside",
+    "Camp Hill",
+    "Carindale",
+    "Cannon Hill",
+    "Gold Coast",
+    "Canberra"
+  ],
    "address": {
     "@type": "PostalAddress",
     "streetAddress": "610 Darcy Road Carina",
@@ -88,7 +106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     "longitude": 153.0251
   },
   "openingHours": "Mo-Sa 10:00-18:00",
-  "description": "Susan Carrier is a renowned psychic and clairvoyant in Brisbane,including Southbank,Wynnum offering spiritual readings, spell protection, and psychic tuition.",
+  "description": "Susan Carrier is a renowned psychic and clairvoyant serving Brisbane, Carina, South Bank, Wynnum, Chermside, New Farm, Paddington, Mt Gravatt, and surrounding suburbs.",
   "priceRange":"$50 - $100",
   "sameAs": [
     "https://www.facebook.com/susancarrierpsychic",
@@ -401,8 +419,7 @@ BSB 484 799</p>
 <h2>Psychic Readings Across Brisbane and Surrounding Areas</h2>
 
 <p>
-Susan Carrier provides psychic readings and clairvoyant services throughout Brisbane,
-South Bank, Wynnum, Carina, Mt Gravatt, Upper Mt Gravatt, Gold Coast and Canberra.
+Susan Carrier provides accurate psychic readings and clairvoyant services throughout all Brisbane suburbs, including <strong>Carina, South Bank, Wynnum, Chermside, New Farm, Paddington, Mt Gravatt, Upper Mt Gravatt, Indooroopilly, Sunnybank, Fortitude Valley, Coorparoo, Manly, West End, Bulimba, Hamilton, Toowong, Ascot, Morningside, Camp Hill, Carindale, and Cannon Hill</strong>, as well as the Gold Coast and Canberra.
 </p>
 <p style="color: #000;
     background: #D4AF37;
