@@ -12,6 +12,7 @@ RewriteCond %{HTTP_REFERER} !^https://www.susancarrier.com$      [NC]
 RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
 RewriteCond %{HTTP_HOST} ^susancarrier\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.susancarrier\.com$
+RewriteRule ^index\.html$ https://www.susancarrier.com/ [R=301,L]
 RewriteRule ^/?$ "https\:\/\/www\.susancarrier\.com\/index\.php" [R=301,L]
 
 # php -- BEGIN cPanel-generated handler, do not edit

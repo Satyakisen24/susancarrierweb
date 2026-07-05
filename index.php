@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <!-- Google Tag Manager -->
@@ -41,22 +41,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Best Psychic, Best Psychic Brisbane, Psychic in Brisbane, Psychic in Southbank, Psychic in Wynnum, psychic, clairvoyant, medium, Psychic teacher, Charmaine, haunted house, clearings, spells, spell protection, best psychic reading Brisbane, house clearings, Tarot, Psychic book, psychic teacher, clairvoyant medium, clairvoyant Brisbane, Susan Carrier, The Good One, Charmaine The Good One, Charmaine, Psychic, psychic in Brisbane, Psychic Brisbane, Adelaide, Perth, Sydney, Melbourne, Brisbane, Angel Readings, Medium, Medium Readings, Tarot cards, Tarot, Future Readings, Read your future, Read your future Readings">
 
-<meta name="description" content="We are psychic and clairvoyant specialists based in Brisbane, including Southbank Wynnum,Canberra,Mt.Gravatt and Upper Mt Gravatt. We offer psychic tuition, psychic books, Reiki courses, demon protection, and live psychic readings for just $100 per 30 minutes." />
+<meta name="description" content="Susan Carrier is a trusted psychic and clairvoyant in Brisbane. Offering accurate readings, Reiki courses, and spiritual protection. Book a session today." />
 
-<title>Psychic Brisbane | Clairvoyant in Brisbane,Southbank,Wynnum,Canberra,Mt Gravatt | Susan Carrier | Psychic Book | Angel Reading Brisbane</title>
 <!-- ✅ Open Graph Meta Tags -->
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Clairvoyant in Brisbane | Susan Carrier" />
-<meta property="og:description" content="Book a live reading with Susan Carrier – Brisbane’s trusted psychic now serving Southbank, Wynnum, Canberra, Mt Gravatt. Spiritual guidance, energy healing, and more." />
-<meta name="twitter:description" content="Accurate psychic readings, spell protection, and spiritual help in Brisbane, Southbank,Canberra,Mt Gravatt and Wynnum with Susan Carrier." />
-
+<meta property="og:title" content="Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier" />
+<meta property="og:description" content="Susan Carrier is a trusted psychic and clairvoyant in Brisbane. Offering accurate readings, Reiki courses, and spiritual protection." />
 <meta property="og:url" content="https://www.susancarrier.com/" />
 <meta property="og:image" content="https://www.susancarrier.com/images/susan.jpg" />
 
 <!-- ✅ Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Susan Carrier - Clairvoyant in Brisbane" />
-<meta name="twitter:description" content="Accurate psychic readings, spell protection, and spiritual help with Susan Carrier." />
+<meta name="twitter:title" content="Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier" />
+<meta name="twitter:description" content="Susan Carrier is a trusted psychic and clairvoyant in Brisbane. Offering accurate readings, Reiki courses, and spiritual protection." />
 <meta name="twitter:image" content="https://www.susancarrier.com/images/susan.jpg" />
 <!-- ✅ JSON-LD Schema Markup for Local SEO -->
 <script type="application/ld+json">
@@ -212,8 +209,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="boxes">
 <div style="top: 50%; left: 50%; display: none;" id="dialog" class="window"> 
 <div id="san">
-<a href="#" class="close agree"><img src="images/9110796_x_icon.png" width="25" style="float:left; margin-right: 366px; margin-top: 70px;"></a>
-<img src="images/advertisment.jpg" width="750">
+<a href="#" class="close agree"><img src="images/9110796_x_icon.png" alt="Close Advertisement Dialog" width="25" style="float:left; margin-right: 366px; margin-top: 70px;"></a>
+<img src="images/advertisment.jpg" alt="Psychic Reading Advertisement" width="750">
 </div>
 </div>
 <!--<div style="width: 2478px; font-size: 32pt; color:white; display: none; opacity: 0.4; height:0" id="mask"></div>-->
@@ -221,7 +218,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="top_part">
-	<div class="logo"><a href="index.html"><img src="images/logo.png" width="313" height="91" border="0" /></a></div>
+	<div class="logo"><a href="/"><img src="images/logo.png" alt="Susan Carrier Clairvoyant Brisbane Logo" width="313" height="91" border="0" /></a></div>
      
     <div class="call_us">Call Us: <br />
     OverSeas (617) and interstate  (07) <br />
@@ -296,15 +293,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="w3-content w3-section">
-<img class="mySlides" src="images/bookimg1.jpg" style="width:100%">
-<img class="mySlides" src="images/bookimg7.jpg" style="width:100%">
-<img class="mySlides" src="images/bookimg1.jpg" style="width:100%">
-<img class="mySlides" src="images/bookimg5.jpg" style="width:100%">
-<img class="mySlides" src="images/bookimg6.jpg" style="width:100%">
-<img class="mySlides" src="images/bookimg8.jpg" style="width:100%">
-<img class="mySlides" src="images/bookimg4.jpg" style="width:100%">
-<img class="mySlides" src="images/bookimg2.jpg" style="width:100%">
-<img class="mySlides" src="images/sliderimg4.jpg" style="width:100%">
+<img class="mySlides" src="images/bookimg1.jpg" alt="Candy Man Book Cover - Readings by Charmaine" style="width:100%">
+<img class="mySlides" src="images/bookimg7.jpg" alt="Readings by Delta Goodrem Book Cover" style="width:100%">
+<img class="mySlides" src="images/bookimg1.jpg" alt="Candy Man Book Cover - Readings by Charmaine" style="width:100%">
+<img class="mySlides" src="images/bookimg5.jpg" alt="Readings by Adam Lambert Book Cover" style="width:100%">
+<img class="mySlides" src="images/bookimg6.jpg" alt="Readings by Donald Trump Book Cover" style="width:100%">
+<img class="mySlides" src="images/bookimg8.jpg" alt="Readings by Kylie Monique Book Cover" style="width:100%">
+<img class="mySlides" src="images/bookimg4.jpg" alt="Readings by Oprah Winfrey Book Cover" style="width:100%">
+<img class="mySlides" src="images/bookimg2.jpg" alt="Readings by Arnold Schwarzenegger Book Cover" style="width:100%">
+<img class="mySlides" src="images/sliderimg4.jpg" alt="Susan Carrier Book Collection Slider" style="width:100%">
 </div>
 <script>
 var myIndex = 0;
@@ -324,7 +321,7 @@ function carousel() {
 </script>
 
 <center>
-<a href="https://www.susancarrier.com/robbie_williams.html"><img src="images/readbooks.gif" /></a>
+<a href="https://www.susancarrier.com/robbie_williams.html"><img src="images/readbooks.gif" alt="Read Susan Carrier Books Online" /></a>
 </center>
 <!--<center>
 <h3 style="color: #000; background: #fff; padding: 20px; font-size:20px">Work from home Make your Computer a money-making machine Daily income If you have lots of contacts in your email box, this is the business for you 20 minutes a day, for an income coming in every day...<a href="https://www.thehappyhomemailer.com/charmainethegoodone">Click Here</a></h3>
@@ -359,12 +356,12 @@ In Brisbane? Face to Face Psychic Readings Available – Bookings Essential.
 <div class="contain">
 <div class="col-sm-4">
 	<div class="contain_left"> 
-	<img src="images/middle_contain.png" width="207" height="207" border="0" style="float:left; padding:0; margin:0; clear:none; min-width:0px"/> 
-	<img src="images/brackets.png" border="0"  style="float:left; padding:0; margin:0; clear:none; min-width:0px"/></div>
-	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif"></a></div>
-	<div class=""><a href="http://susancarrier.com/robbie_williams.html"><img src="images/book-btn2.gif"></a></div>
-	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/spirit_haunted.gif"></a></div>
-	<div class=""><a href="http://www.susancarrier.com/spells.html"><img src="images/spell-btn.gif"></a></div>
+	<img src="images/middle_contain.png" alt="Susan Carrier Clairvoyant Reading Services Illustration" width="207" height="207" border="0" style="float:left; padding:0; margin:0; clear:none; min-width:0px"/> 
+	<img src="images/brackets.png" alt="Section divider bracket" border="0"  style="float:left; padding:0; margin:0; clear:none; min-width:0px"/></div>
+	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif" alt="Wanted: Haunted House Clearing Services - Contact Susan Carrier"></a></div>
+	<div class=""><a href="http://susancarrier.com/robbie_williams.html"><img src="images/book-btn2.gif" alt="Psychic Clairvoyants Manual Book Guide"></a></div>
+	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/spirit_haunted.gif" alt="Haunted House Spiritual Clearing Services"></a></div>
+	<div class=""><a href="http://www.susancarrier.com/spells.html"><img src="images/spell-btn.gif" alt="Demon Spell Protection Courses"></a></div>
 </div>
 <div class="col-sm-4">
 	
@@ -396,7 +393,7 @@ BSB 484 799</p>
          style="width:300px !important;height:auto !important;">
 </div>
 <div class="col-sm-12">
-<div class="contain_right"><h1>One of Australia's Leading Psychics  !</h1><br />
+<div class="contain_right"><h2>One of Australia's Leading Psychics!</h2><br />
 <br /><br />
 
 <p>Susan Carrier is a well-known Psychic Clairvoyant Medium Teacher, who is regularly sort after by the Media. She can give you accurate psychic readings from Guardian Angles on your relationships, career, pets, passed loved ones, wealth and your health.</p>
@@ -412,7 +409,7 @@ South Bank, Wynnum, Carina, Mt Gravatt, Upper Mt Gravatt, Gold Coast and Canberr
     text-align: center;
     font-weight: bold;
     font-size: 20px;">Pensioners Discounts</p>
-<h1>Hi, <span>I&#39;m Susan.</span> I&#39;m one of the rare Mediums that you will ever encounter that can actually tell you things.</h1>
+<h2 class="susan-intro">Hi, <span>I&#39;m Susan.</span> I&#39;m one of the rare Mediums that you will ever encounter that can actually tell you things.</h2>
 
 <h1 class="page-title">Best Psychic Readings in Brisbane - Psychic eBook Guides and clairvoyant training by Charmaine The Clairvoyant Psychic Medium</h1>
 
@@ -547,9 +544,6 @@ South Bank, Wynnum, Carina, Mt Gravatt, Upper Mt Gravatt, Gold Coast and Canberr
       No of Visitors: <script type='text/javascript'>document.write(dsCounter);</script>
     </div>
   </center>
-
-</body>
-</html>
 
 </body>
 </html>

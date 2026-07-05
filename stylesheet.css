@@ -99,7 +99,7 @@ body
 	margin:0px 0px 0px 0px;	
 	color:#FFF;
 }
-.contain_right h1
+.contain_right h1, .contain_right h2
 {
 	float:left;
 	font-family: 'Signika Negative', sans-serif;
@@ -265,7 +265,7 @@ color:#e21ec2
 .nav ul li a{ font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:16px; color:#fff; text-decoration:none; display:block; font-weight:normal; text-transform:capitalize; padding:10px 20px; -moz-transition:background 0.4s ease 0.10s; -webkit-transition:background 0.4s ease 0.10s; -o-transition:background 0.4s ease 0.10s; -ms-transition:background 0.4s ease 0.10s; transition:background 0.4s ease 0.10s;}
 .nav ul li a:hover{background:#0b0b2f;}
 .navbar-inverse {float: left; width: 100%;}
-.contain h1
+.contain h1, .contain h2.susan-intro
 {
 	font-size:36px;
 	font-weight:normal;
