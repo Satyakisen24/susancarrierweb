@@ -1,0 +1,11 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/susancn5/public_html
+    - /bin/rsync -avz --exclude '.git' --exclude '.cpanel.yml' ./ $DEPLOYPATH
+    - chmod 755 $DEPLOYPATH
+    - chmod 644 $DEPLOYPATH/.htaccess
+    - chmod 644 $DEPLOYPATH/*.html
+    - chmod 644 $DEPLOYPATH/*.php
+    - chmod 644 $DEPLOYPATH/robots.txt
+    - chmod 644 $DEPLOYPATH/sitemap.xml
