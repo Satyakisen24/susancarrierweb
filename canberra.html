@@ -121,8 +121,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </style>
 
 <link href="stylesheet.css" rel="stylesheet" type="text/css" />
-<link href='http://fonts.googleapis.com/css?family=Signika+Negative:400,600' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Cabin:400,500' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Signika+Negative:400,600' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Cabin:400,500' rel='stylesheet' type='text/css'>
 
 
 <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />
@@ -207,12 +207,12 @@ function poponload()
 <div class="spell-btn"><a href="http://www.susancarrier.com/spells.html"><img src="images/spell-btn.gif"></a></div>-->
 <div class="counter">
 <!-- BEGIN: Powered by Supercounters.com -->
-<center><script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script><script type="text/javascript">sc_hit(1532336,16,3);</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script><script type="text/javascript">sc_hit(1532336,16,3);</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
 </center>
 <!-- END: Powered by Supercounters.com -->
 </div>
 <!-- Google Tag Manager -->
-<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-W3KB"
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3KB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -252,7 +252,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script> 
 <script src="js/swc.js"></script>
 
 
@@ -350,11 +350,11 @@ function carousel() {
 
 <center>
 <div class="dwnld-btn" style="color:#fff;">
-<a target="_blank" href="http://dstats.net/download/http://susancarrier.com/brochure.php">
+<a target="_blank" href="https://dstats.net/download/https://www.susancarrier.com/brochure.php">
 	<span class="dwnld">
-    <script type='text/javascript' src='http://dstats.net/js/dstracker.js'></script>
-<a href='http://dstats.net/dstatsjs.php?file=http://susancarrier.com/brochure.php' onclick='return dstatstracker(this);' style="color:#fff; text-decoration:none;">Total No of Downloads:</a>
-<script type='text/javascript' src='http://dstats.net/dstatsjs.php?file=http://dstats.net/dstatsjs.php?file=http://susancarrier.com/brochure.php'></script>
+    <script type='text/javascript' src='https://dstats.net/js/dstracker.js'></script>
+<span onclick='return dstatstracker(this);' style="color:#fff; text-decoration:none;">Total No of Downloads:</span>
+<script type='text/javascript' src='https://dstats.net/dstatsjs.php?file=https://www.susancarrier.com/brochure.php'></script>
 <script type='text/javascript'>document.write(dsCounter);</script>
 	</span>
 </a>
@@ -376,10 +376,10 @@ In Brisbane? Face to Face Psychic Readings Available – Bookings Essential.
 	<div class="contain_left"> 
 	<img src="images/middle_contain.png" alt="Susan Carrier Clairvoyant Reading Services Illustration" width="207" height="207" border="0" style="float:left; padding:0; margin:0; clear:none; min-width:0px"/> 
 	<img src="images/brackets.png" alt="Section divider bracket" border="0"  style="float:left; padding:0; margin:0; clear:none; min-width:0px"/></div>
-	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif" alt="Wanted: Haunted House Clearing Services - Contact Susan Carrier"></a></div>
-	<div class=""><a href="http://susancarrier.com/robbie_williams.html"><img src="images/book-btn2.gif" alt="Psychic Clairvoyants Manual Book Guide"></a></div>
-	<div class=""><a href="http://susancarrier.com/haunted_house.html"><img src="images/spirit_haunted.gif" alt="Haunted House Spiritual Clearing Services"></a></div>
-	<div class=""><a href="http://www.susancarrier.com/spells.html"><img src="images/spell-btn.gif" alt="Demon Spell Protection Courses"></a></div>
+	<div class=""><a href="haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif" alt="Wanted: Haunted House Clearing Services - Contact Susan Carrier"></a></div>
+	<div class=""><a href="robbie_williams.html"><img src="images/book-btn2.gif" alt="Psychic Clairvoyants Manual Book Guide"></a></div>
+	<div class=""><a href="haunted_house.html"><img src="images/spirit_haunted.gif" alt="Haunted House Spiritual Clearing Services"></a></div>
+	<div class=""><a href="spells.html"><img src="images/spell-btn.gif" alt="Demon Spell Protection Courses"></a></div>
 </div>
 <div class="col-sm-4">
 	
@@ -571,7 +571,7 @@ Susan Carrier provides accurate psychic readings and clairvoyant services throug
   <!-- Visitor Counter -->
   <center>
     <div style="color:#fff; padding: 20px;">
-      <script type='text/javascript' src='http://dstats.net/sitetracker.php?url=http://susancarrier.com'></script>
+      <script type='text/javascript' src='https://dstats.net/sitetracker.php?url=https://www.susancarrier.com'></script>
       No of Visitors: <script type='text/javascript'>document.write(dsCounter);</script>
     </div>
   </center>
