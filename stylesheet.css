@@ -316,3 +316,113 @@ color:#e21ec2
 .contain-left h3, .contain-right h3{float:left;font-family: 'Signika Negative', sans-serif;font-size:26px;font-weight:normal;padding:0px;margin:0px 0px 0px 0px;color:#fff;clear:none;width:100%;}
 .contain-left h5, .contain-right h5{font-size:36px;font-weight:normal;padding:20px 0px 0px 0px;margin:0px 0px 0px 0px;color:#e21ec2;clear:none; clear:both;}
 .counter{left: 0; position: fixed; top: 500px;}
+
+/* ==========================================================================
+   Redesign overrides for Cosmic Dark Mode (Maintains all content & layout)
+   ========================================================================== */
+
+/* Modern scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #080718;
+}
+::-webkit-scrollbar-thumb {
+  background: #251e4a;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e21ec2;
+}
+
+/* Global body overhaul */
+body {
+  background: #080718 !important;
+  background-image: radial-gradient(circle at 10% 20%, rgba(26, 20, 64, 0.4) 0%, transparent 50%),
+                    radial-gradient(circle at 90% 80%, rgba(226, 30, 194, 0.15) 0%, transparent 50%) !important;
+  color: #f0f0f5 !important;
+}
+
+/* Elegant font pairings */
+h1, h2, h3, h4, h5, .logo h1, .header_text {
+  font-family: 'Cinzel', serif !important;
+}
+
+/* Color & text enhancements */
+.logo h1, .header_text {
+  color: #ffd700 !important;
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.2);
+}
+
+.logo span, .header_sub_text {
+  color: #e21ec2 !important;
+  letter-spacing: 4px !important;
+}
+
+/* Call Us Box redesign */
+.call_us {
+  background: rgba(255, 255, 255, 0.03) !important;
+  border: 1px solid rgba(255, 255, 255, 0.07) !important;
+  border-radius: 8px !important;
+  color: #f0f0f5 !important;
+}
+
+.call_us strong {
+  color: #ffd700 !important;
+}
+
+.call_us a {
+  color: #e21ec2 !important;
+}
+
+/* Navigation bar styling */
+.navbar-inverse {
+  background-color: rgba(255, 255, 255, 0.02) !important;
+  border: 1px solid rgba(255, 255, 255, 0.05) !important;
+  border-radius: 8px !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #f0f0f5 !important;
+  font-weight: 500 !important;
+  transition: color 0.3s ease !important;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #ffd700 !important;
+}
+
+/* Cards & content wrapper styling */
+.contain_right h1, .contain_right h2, .contain h1, .contain h2 {
+  color: #ffd700 !important;
+}
+
+.contain p, .contain_right p {
+  color: #a0a0ba !important;
+  font-size: 15px !important;
+}
+
+.bank-details, p[style*="Bank Account Details"] {
+  background: rgba(138, 20, 159, 0.15) !important;
+  border: 1px solid rgba(226, 30, 194, 0.3) !important;
+  border-radius: 8px !important;
+  padding: 15px !important;
+  color: #f0f0f5 !important;
+}
+
+/* Footer Section */
+footer, .footer_banner {
+  background: #04030a !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.05) !important;
+}
+
+footer a, .footer_banner a {
+  color: #ffd700 !important;
+  transition: color 0.3s ease;
+}
+
+footer a:hover, .footer_banner a:hover {
+  color: #e21ec2 !important;
+}

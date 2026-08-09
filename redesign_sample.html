@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Susan Carrier | Psychic & Clairvoyant Brisbane (Redesign Sample)</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #080718;
+      --bg-card: rgba(255, 255, 255, 0.03);
+      --border-card: rgba(255, 255, 255, 0.07);
+      --accent-gold: #ffd700;
+      --accent-pink: #e21ec2;
+      --text-main: #f0f0f5;
+      --text-muted: #a0a0ba;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      background-image: radial-gradient(circle at 10% 20%, rgba(26, 20, 64, 0.6) 0%, transparent 40%),
+                        radial-gradient(circle at 90% 80%, rgba(226, 30, 194, 0.15) 0%, transparent 40%);
+      color: var(--text-main);
+      font-family: 'Outfit', sans-serif;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    header {
+      padding: 20px 5%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border-card);
+      backdrop-filter: blur(10px);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(8, 7, 24, 0.8);
+    }
+
+    .logo {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .logo h1 {
+      font-family: 'Cinzel', serif;
+      font-size: 24px;
+      color: var(--text-main);
+      letter-spacing: 2px;
+    }
+
+    .logo span {
+      font-size: 11px;
+      color: var(--accent-pink);
+      text-transform: uppercase;
+      letter-spacing: 4px;
+    }
+
+    .contact-info {
+      text-align: right;
+    }
+
+    .contact-info a {
+      color: var(--accent-gold);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 18px;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 80px 5%;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .hero h2 {
+      font-family: 'Cinzel', serif;
+      font-size: 42px;
+      color: var(--accent-gold);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .hero p {
+      font-size: 18px;
+      color: var(--text-muted);
+      margin-bottom: 30px;
+    }
+
+    .cta-btn {
+      display: inline-block;
+      padding: 15px 35px;
+      background: linear-gradient(90deg, var(--accent-pink), #8a149f);
+      color: white;
+      text-decoration: none;
+      border-radius: 50px;
+      font-weight: 600;
+      box-shadow: 0 5px 15px rgba(226, 30, 194, 0.4);
+      transition: transform 0.3s ease;
+    }
+
+    .cta-btn:hover {
+      transform: translateY(-3px);
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 5% 80px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
+
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 15px;
+      padding: 30px;
+      backdrop-filter: blur(10px);
+      transition: border-color 0.3s ease;
+    }
+
+    .card:hover {
+      border-color: rgba(226, 30, 194, 0.5);
+    }
+
+    .card h3 {
+      font-family: 'Cinzel', serif;
+      color: var(--accent-gold);
+      font-size: 20px;
+      margin-bottom: 15px;
+    }
+
+    .card p {
+      color: var(--text-muted);
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .bank-details {
+      background: rgba(138, 20, 159, 0.15);
+      border: 1px solid rgba(226, 30, 194, 0.3);
+      border-radius: 8px;
+      padding: 15px;
+      font-size: 14px;
+      margin-top: 15px;
+    }
+
+    .suburbs-section {
+      text-align: center;
+      margin-top: 60px;
+      padding: 40px;
+      background: var(--bg-card);
+      border-radius: 15px;
+      border: 1px solid var(--border-card);
+    }
+
+    .suburbs-section h3 {
+      font-family: 'Cinzel', serif;
+      color: var(--accent-gold);
+      margin-bottom: 15px;
+    }
+
+    .suburbs-list {
+      color: var(--text-muted);
+      font-size: 15px;
+    }
+
+    footer {
+      background: #04030a;
+      padding: 40px 5%;
+      text-align: center;
+      border-top: 1px solid var(--border-card);
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+
+    footer a {
+      color: var(--accent-gold);
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    .map-container {
+      margin-top: 40px;
+      border-radius: 15px;
+      overflow: hidden;
+      border: 1px solid var(--border-card);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <h1>Susan Carrier</h1>
+      <span>Breath of the Soul</span>
+    </div>
+    <div class="contact-info">
+      <a href="tel:0738436419">07 3843 6419</a><br>
+      <span style="font-size: 12px; color: var(--text-muted);">sue_carrier2003@yahoo.com.au</span>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome to Susan Carrier</h2>
+    <p>Brisbane’s trusted psychic, clairvoyant, and spiritual guide. Connecting you with your Guardian Angels, loved ones on the other side, and providing protection packages.</p>
+    <a href="#booking" class="cta-btn">Book a Reading</a>
+  </section>
+
+  <div class="container">
+    <div class="grid">
+      <!-- Card 1 -->
+      <div class="card">
+        <h3>Live Psychic Readings</h3>
+        <p>Susan Carrier is a well-known Psychic Clairvoyant Medium Teacher regularly sought after by the media. Get accurate insights on relationships, career, pets, passed loved ones, wealth, and health.</p>
+        <p>Susan can predict what you do for a career or reveal what path you really should be on. Readings available face-to-face or via phone.</p>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="card" id="booking">
+        <h3>Bookings & Readings</h3>
+        <p><strong>30-Minute Readings:</strong> $100 AUD (Phone or In-Person)</p>
+        <p><em>Depression/tiredness blocks energies. Please ensure you are relaxed, well-fed, and rested before your reading for the best connection.</em></p>
+        <div class="bank-details">
+          <strong>Bank Account Details for Payment:</strong><br>
+          Bank: SUNCORP EOPTIONS<br>
+          Account No: 053691799<br>
+          BSB: 484 799
+        </div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="card">
+        <h3>The New Age Bible</h3>
+        <p>A Psychic Clairvoyants Manual for those who want to learn to connect with Guardian Angels and unlock their own psychic gifts. Ideal for spiritual tuition and demon protection.</p>
+        <p>Downloadable online from Amazon Kindle or Google PlayStore.</p>
+      </div>
+    </div>
+
+    <!-- Suburbs list -->
+    <div class="suburbs-section">
+      <h3>Psychic Readings in Brisbane Suburbs</h3>
+      <p class="suburbs-list">
+        Serving Carina, South Bank, Wynnum, Chermside, New Farm, Paddington, Mt Gravatt, Upper Mt Gravatt, Indooroopilly, Sunnybank, Fortitude Valley, Coorparoo, Manly, West End, Bulimba, Hamilton, Toowong, Ascot, Morningside, Camp Hill, Carindale, and Cannon Hill.
+      </p>
+    </div>
+
+    <!-- Map embed -->
+    <div class="map-container">
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3539.2704009999333!2d153.0939531!3d-27.500225584417985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a7399e7e8b3%3A0x9d77c9280d0ae193!2s610%20Darcy%20Rd%2C%20Carina%20QLD%204152%2C%20Australia!5e0!3m2!1sen!2sin!4v1722175536962!5m2!1sen!2sin"
+        width="100%" 
+        height="350" 
+        style="border:0;" 
+        allowfullscreen 
+        loading="lazy">
+      </iframe>
+    </div>
+  </div>
+
+  <footer>
+    <a href="mailto:sue_carrier2003@yahoo.com.au">Mail Us</a> |
+    <a href="terms&condition.html">Terms & Conditions</a> |
+    <a href="privacypolicy.html">Privacy Policy</a>
+    <p style="margin-top: 15px;">© 2026 Susan Carrier. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
+

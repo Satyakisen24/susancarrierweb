@@ -152,8 +152,8 @@ echo '<div class="errormsgbox"> <ol>';
 
 <title>Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angle Reading Brisbane</title>
 <link href="stylesheet.css" rel="stylesheet" type="text/css" />
-<link href='http://fonts.googleapis.com/css?family=Signika+Negative:400,600' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Cabin:400,500' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Signika+Negative:400,600' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Cabin:400,500' rel='stylesheet' type='text/css'>
 
 
 <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />

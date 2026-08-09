@@ -14,10 +14,11 @@ RewriteCond %{HTTP_REFERER} !^https://susancarrier.com$      [NC]
 RewriteCond %{HTTP_REFERER} !^https://www.susancarrier.com/.*$      [NC]
 RewriteCond %{HTTP_REFERER} !^https://www.susancarrier.com$      [NC]
 RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
-RewriteCond %{HTTP_HOST} ^susancarrier\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.susancarrier\.com$
-RewriteRule ^index\.html$ https://www.susancarrier.com/ [R=301,L]
-RewriteRule ^/?$ "https\:\/\/www\.susancarrier\.com\/index\.php" [R=301,L]
+DirectoryIndex index.php index.html
+
+# Canonical redirect for index.php and index.html to root
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(php|html)\ HTTP/
+RewriteRule ^index\.(php|html)$ https://www.susancarrier.com/ [R=301,L]
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php71” package as the default “PHP” programming language.

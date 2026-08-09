@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <!-- Google Tag Manager -->
 <script>
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -56,62 +57,94 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:title" content="Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier" />
 <meta name="twitter:description" content="Susan Carrier is a trusted psychic & clairvoyant in Brisbane. Accurate readings serving Carina, South Bank, Wynnum, Chermside, and all suburbs." />
 <meta name="twitter:image" content="https://www.susancarrier.com/images/susan.jpg" />
-<!-- ✅ JSON-LD Schema Markup for Local SEO -->
+<!-- ✅ JSON-LD Schema Markup with LocalBusiness & FAQPage for Google Page 1 Rich Results -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Susan Carrier - Psychic & Clairvoyant",
-  "image": "https://www.susancarrier.com/images/susan.jpg",
-  "@id": "https://www.susancarrier.com",
-  "url": "https://www.susancarrier.com",
-  "telephone": "+61 0738436419",
-  "areaServed": [
-    "Brisbane",
-    "Carina",
-    "South Bank",
-    "Wynnum",
-    "Chermside",
-    "New Farm",
-    "Paddington",
-    "Mt Gravatt",
-    "Upper Mt Gravatt",
-    "Indooroopilly",
-    "Sunnybank",
-    "Fortitude Valley",
-    "Coorparoo",
-    "Manly",
-    "West End",
-    "Bulimba",
-    "Hamilton",
-    "Toowong",
-    "Ascot",
-    "Morningside",
-    "Camp Hill",
-    "Carindale",
-    "Cannon Hill",
-    "Gold Coast",
-    "Canberra"
-  ],
-   "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "610 Darcy Road Carina",
-    "addressLocality": "Brisbane",    
-    "addressRegion": "QLD",
-    "postalCode": "4152",
-    "addressCountry": "AU"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": -27.4698,
-    "longitude": 153.0251
-  },
-  "openingHours": "Mo-Sa 10:00-18:00",
-  "description": "Susan Carrier is a renowned psychic and clairvoyant serving Brisbane, Carina, South Bank, Wynnum, Chermside, New Farm, Paddington, Mt Gravatt, and surrounding suburbs.",
-  "priceRange":"$50 - $100",
-  "sameAs": [
-    "https://www.facebook.com/susancarrierpsychic",
-    "https://www.instagram.com/susancarrierclairvoyant"
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://www.susancarrier.com/#business",
+      "name": "Susan Carrier - Psychic & Clairvoyant Brisbane",
+      "image": "https://www.susancarrier.com/images/susan.jpg",
+      "url": "https://www.susancarrier.com",
+      "telephone": "+61 0738436419",
+      "priceRange": "$50 - $100",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "610 Darcy Road Carina",
+        "addressLocality": "Brisbane",
+        "addressRegion": "QLD",
+        "postalCode": "4152",
+        "addressCountry": "AU"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -27.4698,
+        "longitude": 153.0251
+      },
+      "openingHours": "Mo-Sa 10:00-18:00",
+      "description": "Susan Carrier is a renowned psychic, clairvoyant, and spiritual medium in Brisbane providing accurate phone and in-person readings, tarot, demon protection, and clairvoyant manual guides.",
+      "areaServed": [
+        "Brisbane", "Carina", "South Bank", "Wynnum", "Chermside", "New Farm", "Paddington",
+        "Mt Gravatt", "Upper Mt Gravatt", "Indooroopilly", "Sunnybank", "Fortitude Valley",
+        "Coorparoo", "Manly", "West End", "Bulimba", "Hamilton", "Toowong", "Ascot",
+        "Morningside", "Camp Hill", "Carindale", "Cannon Hill", "Gold Coast", "Canberra"
+      ],
+      "sameAs": [
+        "https://www.facebook.com/susancarrierpsychic",
+        "https://www.instagram.com/susancarrierclairvoyant"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.susancarrier.com/#person",
+      "name": "Susan Carrier",
+      "jobTitle": "Psychic Medium & Clairvoyant",
+      "url": "https://www.susancarrier.com",
+      "sameAs": [
+        "https://www.facebook.com/susancarrierpsychic",
+        "https://www.instagram.com/susancarrierclairvoyant"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.susancarrier.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What services does Susan Carrier offer in Brisbane?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Susan Carrier provides accurate psychic readings, clairvoyant sessions, mediumship to connect with loved ones, tarot guidance, pet readings, spiritual warfare protection, and psychic tuition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a psychic reading by phone in Australia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Susan Carrier offers 30-minute psychic phone readings across Brisbane, Gold Coast, Sydney, Melbourne, and all of Australia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a psychic reading cost with Susan Carrier?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Psychic readings are available for 30 minutes in person or by phone for $100 AUD, with pensioner discounts available."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which Brisbane suburbs are covered for readings?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Susan serves all Brisbane suburbs including Carina, Carindale, Chermside, South Bank, New Farm, Paddington, Mt Gravatt, Wynnum, Indooroopilly, and surrounding Queensland regions."
+          }
+        }
+      ]
+    }
   ]
 }
 </script>
@@ -412,37 +445,60 @@ BSB 484 799</p>
          style="width:300px !important;height:auto !important;">
 </div>
 <div class="col-sm-12">
-<div class="contain_right"><h2>One of Australia's Leading Psychics!</h2><br />
-<br /><br />
+<div class="contain_right">
+  <h1 class="page-title" style="font-size:26px;color:#fff;margin-bottom:15px;">Trusted Psychic &amp; Clairvoyant in Brisbane – Susan Carrier</h1>
+  
+  <p>Susan Carrier is a renowned Australian Psychic, Clairvoyant, and Spiritual Medium offering accurate, deeply insightful readings. Connect with your Guardian Angels and receive honest spiritual guidance regarding relationships, career pathways, health, wealth, pets, and passed loved ones.</p>
+  <p>With over 30 years of intuitive experience, Susan provides accurate answers and helps you discover your true destiny.</p>
+  
+  <div style="background: #D4AF37; color: #000; padding: 10px; text-align: center; font-weight: bold; font-size: 18px; border-radius: 4px; margin: 15px 0;">
+    🌟 Pensioner &amp; Senior Discounts Available | 30-Minute Phone &amp; In-Person Readings
+  </div>
 
-<p>Susan Carrier is a well-known Psychic Clairvoyant Medium Teacher, who is regularly sort after by the Media. She can give you accurate psychic readings from Guardian Angles on your relationships, career, pets, passed loved ones, wealth and your health.</p>
-<p>Also 99% of the time she can predict what you do for a career or tell you what you really should be doing for a career.</p>
-<h2>Psychic Readings Across Brisbane and Surrounding Areas</h2>
+  <h2 style="color:#ffcc00;font-size:22px;margin-top:25px;">Psychic Readings Across Brisbane Suburbs &amp; Queensland</h2>
+  <p>Susan offers in-person consultations in Carina (Brisbane) and phone readings across Australia. Explore our dedicated regional reading guides:</p>
+  
+  <!-- Local Suburb Cluster Linking Grid -->
+  <div style="display:flex;flex-wrap:wrap;gap:10px;margin:15px 0 25px 0;">
+    <a href="carina.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 Carina Readings</a>
+    <a href="chermside.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 Chermside Readings</a>
+    <a href="south-bank.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 South Bank Readings</a>
+    <a href="new-farm.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 New Farm Readings</a>
+    <a href="paddington.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 Paddington Readings</a>
+    <a href="mt-gravatt.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 Mt Gravatt Readings</a>
+    <a href="wynnum.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 Wynnum Readings</a>
+    <a href="gold-coast.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 Gold Coast Readings</a>
+    <a href="canberra.html" style="background:#1a1c4b;color:#ffcc00;padding:8px 14px;border-radius:4px;text-decoration:none;border:1px solid #4a4e9b;font-weight:bold;">📍 Canberra Readings</a>
+  </div>
 
-<p>
-Susan Carrier provides accurate psychic readings and clairvoyant services throughout all Brisbane suburbs, including <strong>Carina, South Bank, Wynnum, Chermside, New Farm, Paddington, Mt Gravatt, Upper Mt Gravatt, Indooroopilly, Sunnybank, Fortitude Valley, Coorparoo, Manly, West End, Bulimba, Hamilton, Toowong, Ascot, Morningside, Camp Hill, Carindale, and Cannon Hill</strong>, as well as the Gold Coast and Canberra.
-</p>
-<p style="color: #000;
-    background: #D4AF37;
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;">Pensioners Discounts</p>
-<h2 class="susan-intro">Hi, <span>I&#39;m Susan.</span> I&#39;m one of the rare Mediums that you will ever encounter that can actually tell you things.</h2>
+  <h2 style="color:#ffcc00;font-size:22px;margin-top:25px;">Spiritual Guidance, Demon Protection &amp; Psychic Books</h2>
+  <p>In addition to live psychic readings, Susan Carrier is the author of <em>The New Age Bible - Clairvoyant Manual</em> and offers spiritual warfare protection, aura cleansing, and reiki healing.</p>
 
-<h1 class="page-title">Best Psychic Readings in Brisbane - Psychic eBook Guides and clairvoyant training by Charmaine The Clairvoyant Psychic Medium</h1>
+  <!-- On-Page FAQ Section for Google Page 1 Rich Snippets -->
+  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; margin-top: 30px; border: 1px solid rgba(255,255,255,0.1);">
+    <h2 style="color: #ffcc00; font-size: 22px; margin-top: 0;">Frequently Asked Questions (FAQ)</h2>
+    
+    <div style="margin-bottom: 15px;">
+      <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">What services does Susan Carrier offer in Brisbane?</h3>
+      <p style="color: #ddd; margin: 0;">Susan Carrier provides accurate psychic readings, clairvoyant sessions, mediumship to connect with loved ones, tarot guidance, pet readings, spiritual warfare protection, and psychic tuition.</p>
+    </div>
 
-<p>I can help patch up a Relationship or tell you where the right one for you is. I&#39;m not your&nbsp;average Psychic, I truly use my gift by Guardian Angels and have well known celebrities around me like Nostradamus and Elvis Presley. God is also my Teacher.&nbsp; Also I can repeat word for word what loved ones from the other side are saying and what they are up to now. Even what they think about their will etc. I can even tell you how they died or&nbsp;what your pets are thinking.&nbsp;Do they love their food or what is wrong with them?</p>
+    <div style="margin-bottom: 15px;">
+      <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">Can I book a psychic reading by phone in Australia?</h3>
+      <p style="color: #ddd; margin: 0;">Yes, Susan Carrier offers 30-minute psychic phone readings across Brisbane, Gold Coast, Sydney, Melbourne, and all of Australia.</p>
+    </div>
 
-<p>I am also a Teacher.&nbsp; If you would like to see your own future and get in touch with your own Guardian Angels,call me. And I have the perfect Demon protection for those that are the victim of Spiritual warfare. The New Age Bible is a Psychic Clairvoyants Manual for those that want to learn to be the best psychic. It can be purchased and downloaded online from Amazon Kindle or the Google PlayStore.&nbsp;Scroll down if you would like more info on the kind of Medium I am and what my future lies for you.</p>
+    <div style="margin-bottom: 15px;">
+      <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">How much does a psychic reading cost?</h3>
+      <p style="color: #ddd; margin: 0;">Psychic readings are available for 30 minutes in person or by phone for $100 AUD, with pensioner discounts available.</p>
+    </div>
 
-<!--<h1>I Choose to be an Honest Psychic !</h1>
-<p>My Guardian Angels said, - Would you like to be a Psychic that gives them what they want to hear? And make money..... Or be an honest Psychic and make no money- But Alisa (God) will make you "The One" I choose to be an honest Psychic.....</p>
-<p>Too many of my Clients are sick and I have to turn them away....You must not be depressed for the past couple of days , as their will be no energies Very relaxed, that means no walking dog, cleaning house, work, mowing the lawn , and shopping ect And well fed and not tired... This is why so many Psychics give poor Psychic readings and basically try to get away with it... If you want a really decent reading, make sure the above is taken care of, and give me a call... If it don't work out, you can call me back, no problems...</p>
-<p>If you are a Psychic that makes money,  and gives them basically what they want to hear You will have to pay them all back, when you pass over...cheers !</p>
-<p>Wolfs in white sheet clothing !</p>
-<p><strong>So many Psychics do the wrong thing and cast "Spells"</strong> They will eventually pay for it, and be sorry...Everyone should protect themselves. I do this for a small fee, every day for you. Please check my info...</p>-->
-	
- </div>
+    <div>
+      <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">Which Brisbane suburbs are covered for readings?</h3>
+      <p style="color: #ddd; margin: 0;">Susan serves all Brisbane suburbs including Carina, Carindale, Chermside, South Bank, New Farm, Paddington, Mt Gravatt, Wynnum, Indooroopilly, and surrounding Queensland regions.</p>
+    </div>
+  </div>
+</div>
 </div>
 </div>
 <!--CONTAIN PART END-->
