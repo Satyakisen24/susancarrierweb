@@ -42,6 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="keywords" content="Best Psychic, Best Psychic Brisbane, Psychic in Brisbane, Psychic in Southbank, Psychic in Wynnum, Psychic in Carina, Psychic in Chermside, Psychic in New Farm, Psychic in Paddington, Psychic in Mt Gravatt, Psychic in Indooroopilly, Psychic in Sunnybank, Psychic in Bulimba, clairvoyant Brisbane, Susan Carrier, Tarot, Medium, Angel Readings, Future Readings, Brisbane">
 
 <meta name="description" content="Susan Carrier is a trusted psychic & clairvoyant in Brisbane. Accurate readings and spiritual healing serving Carina, South Bank, Wynnum, and all suburbs." />
+<meta name="google-site-verification" content="u9dCa-ciLErUswYoB5K86i4VwXrvB61rSPr24h7siJ4" />
 
 <!-- ✅ Open Graph Meta Tags -->
 <meta property="og:type" content="website" />
