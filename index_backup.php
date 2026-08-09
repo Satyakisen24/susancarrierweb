@@ -1,9 +1,10 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Best Psychic,  Best Psychic Brisbane , Psychic in Brisbane, psychic, clairvoyant, medium, Psychic teacher, Charmaine, haunted house, clearings, spells, spell protection,best psychic reading Brisbane, house clearings...Tarot,Psychic book,psychic teacher, clairvoyant medium, clairvoyant Brisbane, Susan Carrier, The Good One, Charmaine The Good One, Charmaine, Psychic, psychic in Brisbane, Psychic Brisbane, Adelaide, Perth, Sydney, Melbourne, Brisbane, Angel Readings, Medium , Medium Readings, Tarot cards, Taro, Future Readings....Read your future,  Read your future Readings" />
-<meta name="description" content="we are psychic, clairboyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97." />
+<meta name="description" content="we are psychic, clairvoyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97." />
 
 <title>Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angle Reading Brisbane</title>
 

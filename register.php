@@ -146,9 +146,10 @@ echo '<div class="errormsgbox"> <ol>';
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Angle Reading Brisbane, Psychic Tuition Brisbane, Psychic Book Brisbane, Reiki courses in  Brisbane, Clairvoyant Books brisbane, Demon Protection brisbane, Psychic in Brisbane, Clairvoyant in Brisbane" />
-<meta name="description" content="we are psychic, clairboyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97." />
+<meta name="description" content="we are psychic, clairvoyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97." />
 
 <title>Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angle Reading Brisbane</title>
 <link href="stylesheet.css" rel="stylesheet" type="text/css" />
