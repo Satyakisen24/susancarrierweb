@@ -1,0 +1,390 @@
+{
+  "timestamp": "2026-08-10T22:11:47.548076",
+  "live_status": {
+    "online": true,
+    "status_code": 200,
+    "domain": "https://www.susancarrier.com"
+  },
+  "overall_seo_score": 96,
+  "target_keywords": [
+    "psychic brisbane",
+    "clairvoyant brisbane",
+    "psychic carina",
+    "tarot readings brisbane",
+    "medium readings brisbane",
+    "house clearings brisbane",
+    "demon protection",
+    "phone psychic readings australia",
+    "angel readings brisbane",
+    "psychic chermside",
+    "psychic south bank",
+    "psychic new farm",
+    "psychic paddington",
+    "psychic gold coast",
+    "reiki brisbane"
+  ],
+  "pages_audited": 17,
+  "results": [
+    {
+      "file": "index.html",
+      "score": 80,
+      "title": "Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angel Reading Brisbane",
+      "description": "We are psychic clairvoyants in Brisbane. We provide psychic tuition, psychic books, reiki courses, clairvoyant books, and demon protection. Live psychic readings only at $1.97.",
+      "h1_count": 2,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Trusted Psychic &amp; Clairvoyant in Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 3,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection"
+      ],
+      "issues": [
+        "Title length (79 chars) outside optimal 30-70 range",
+        "Meta description length (176 chars) outside optimal 70-170 range"
+      ]
+    },
+    {
+      "file": "index.php",
+      "score": 100,
+      "title": "Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Brisbane. Accurate readings and spiritual healing serving Carina, South Bank, Wynnum, and all suburbs.",
+      "h1_count": 3,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Trusted Psychic &amp; Clairvoyant in Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 3,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection"
+      ],
+      "issues": []
+    },
+    {
+      "file": "carina.html",
+      "score": 100,
+      "title": "Psychic Carina | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Carina. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in Carina, Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 4,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "psychic carina",
+        "demon protection"
+      ],
+      "issues": []
+    },
+    {
+      "file": "chermside.html",
+      "score": 100,
+      "title": "Psychic Chermside | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Chermside. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in Chermside, Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 4,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection",
+        "psychic chermside"
+      ],
+      "issues": []
+    },
+    {
+      "file": "south-bank.html",
+      "score": 100,
+      "title": "Psychic South Bank | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in South Bank. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in South Bank, Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 4,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection",
+        "psychic south bank"
+      ],
+      "issues": []
+    },
+    {
+      "file": "wynnum.html",
+      "score": 100,
+      "title": "Psychic Wynnum | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Wynnum. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in Wynnum, Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 3,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection"
+      ],
+      "issues": []
+    },
+    {
+      "file": "mt-gravatt.html",
+      "score": 100,
+      "title": "Psychic Mt Gravatt | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Mt Gravatt. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in Mt Gravatt, Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 3,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection"
+      ],
+      "issues": []
+    },
+    {
+      "file": "new-farm.html",
+      "score": 100,
+      "title": "Psychic New Farm | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in New Farm. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in New Farm, Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 4,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection",
+        "psychic new farm"
+      ],
+      "issues": []
+    },
+    {
+      "file": "paddington.html",
+      "score": 100,
+      "title": "Psychic Paddington | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Paddington. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in Paddington, Brisbane \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 4,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection",
+        "psychic paddington"
+      ],
+      "issues": []
+    },
+    {
+      "file": "gold-coast.html",
+      "score": 100,
+      "title": "Psychic Gold Coast | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Gold Coast. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in Gold Coast \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 4,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection",
+        "psychic gold coast"
+      ],
+      "issues": []
+    },
+    {
+      "file": "canberra.html",
+      "score": 100,
+      "title": "Psychic Canberra | Clairvoyant & Tarot Readings | Susan Carrier",
+      "description": "Susan Carrier is a trusted psychic & clairvoyant in Canberra. Accurate readings and spiritual healing. Book a session today.",
+      "h1_count": 4,
+      "h1_samples": [
+        "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
+        "Best Psychic &amp; Clairvoyant Readings in Canberra \u2013 Susan Carrier"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": true,
+      "matched_keywords_count": 3,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection"
+      ],
+      "issues": []
+    },
+    {
+      "file": "about_us.html",
+      "score": 80,
+      "title": "Susan Carrier",
+      "description": null,
+      "h1_count": 0,
+      "h1_samples": [],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": false,
+      "matched_keywords_count": 2,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane"
+      ],
+      "issues": [
+        "Title length (13 chars) outside optimal 30-70 range",
+        "Missing meta description"
+      ]
+    },
+    {
+      "file": "book.html",
+      "score": 80,
+      "title": "Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angle Reading Brisbane",
+      "description": "we are psychic, clairvoyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97.",
+      "h1_count": 2,
+      "h1_samples": [
+        "BOOKS",
+        "REGISTER"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": false,
+      "matched_keywords_count": 3,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane",
+        "demon protection"
+      ],
+      "issues": [
+        "Title length (79 chars) outside optimal 30-70 range",
+        "Meta description length (194 chars) outside optimal 70-170 range"
+      ]
+    },
+    {
+      "file": "reiki.html",
+      "score": 100,
+      "title": "Reiki Healing & Courses Brisbane | Susan Carrier",
+      "description": "Discover professional Reiki healing sessions and Reiki courses in Brisbane with Susan Carrier. Restore natural balance, energy, and spiritual peace.",
+      "h1_count": 0,
+      "h1_samples": [],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": false,
+      "matched_keywords_count": 2,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane"
+      ],
+      "issues": []
+    },
+    {
+      "file": "spells.html",
+      "score": 100,
+      "title": "Spiritual Protection & Spell Clearing Brisbane | Susan Carrier",
+      "description": "Expert spiritual protection, curse clearing, and negative energy shielding in Brisbane by Susan Carrier. Safe, compassionate spiritual guidance.",
+      "h1_count": 2,
+      "h1_samples": [
+        "Spells, Spell Protection",
+        "REGISTER"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": false,
+      "matched_keywords_count": 2,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane"
+      ],
+      "issues": []
+    },
+    {
+      "file": "haunted_house.html",
+      "score": 100,
+      "title": "House Clearings & Spirit Removal Brisbane | Susan Carrier",
+      "description": "Professional haunted house clearings, spirit release, and spiritual space blessings across Brisbane by clairvoyant medium Susan Carrier.",
+      "h1_count": 2,
+      "h1_samples": [
+        "House Clearings",
+        "REGISTER"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": false,
+      "matched_keywords_count": 2,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane"
+      ],
+      "issues": []
+    },
+    {
+      "file": "happy_home.html",
+      "score": 100,
+      "title": "Home Blessing & Energy Clearing Brisbane | Susan Carrier",
+      "description": "Bring harmony, peace, and positive spiritual energy into your home. Professional home blessings and spiritual space clearings in Brisbane by Susan Carrier.",
+      "h1_count": 2,
+      "h1_samples": [
+        "Happy Home Mailer",
+        "REGISTER"
+      ],
+      "has_ga4": true,
+      "has_perf_tracker": true,
+      "has_schema": false,
+      "matched_keywords_count": 2,
+      "matched_keywords": [
+        "psychic brisbane",
+        "clairvoyant brisbane"
+      ],
+      "issues": []
+    }
+  ]
+}
