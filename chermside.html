@@ -13,13 +13,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 <!-- Google Analytics GA4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W3KB123"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8D5H1SD9EM"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-W3KB123');
+  gtag('config', 'G-8D5H1SD9EM');
 </script>
+<script src="js/seo-tracker.js" defer></script>
 
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
