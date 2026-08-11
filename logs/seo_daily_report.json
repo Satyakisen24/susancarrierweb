@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-10T22:11:47.548076",
+  "timestamp": "2026-08-11T20:58:21.933966",
   "live_status": {
     "online": true,
     "status_code": 200,
     "domain": "https://www.susancarrier.com"
   },
-  "overall_seo_score": 96,
+  "overall_seo_score": 98,
   "target_keywords": [
     "psychic brisbane",
     "clairvoyant brisbane",
@@ -27,9 +27,9 @@
   "results": [
     {
       "file": "index.html",
-      "score": 80,
-      "title": "Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angel Reading Brisbane",
-      "description": "We are psychic clairvoyants in Brisbane. We provide psychic tuition, psychic books, reiki courses, clairvoyant books, and demon protection. Live psychic readings only at $1.97.",
+      "score": 100,
+      "title": "Best Psychic Brisbane | Clairvoyant & Medium Readings | Susan Carrier",
+      "description": "Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit guides & demon protection. Call (07) 3843 6419.",
       "h1_count": 2,
       "h1_samples": [
         "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
@@ -38,22 +38,24 @@
       "has_ga4": true,
       "has_perf_tracker": true,
       "has_schema": true,
-      "matched_keywords_count": 3,
+      "matched_keywords_count": 8,
       "matched_keywords": [
         "psychic brisbane",
         "clairvoyant brisbane",
-        "demon protection"
+        "psychic carina",
+        "tarot readings brisbane",
+        "house clearings brisbane",
+        "demon protection",
+        "phone psychic readings australia",
+        "angel readings brisbane"
       ],
-      "issues": [
-        "Title length (79 chars) outside optimal 30-70 range",
-        "Meta description length (176 chars) outside optimal 70-170 range"
-      ]
+      "issues": []
     },
     {
       "file": "index.php",
       "score": 100,
-      "title": "Psychic Brisbane | Clairvoyant & Tarot Readings | Susan Carrier",
-      "description": "Susan Carrier is a trusted psychic & clairvoyant in Brisbane. Accurate readings and spiritual healing serving Carina, South Bank, Wynnum, and all suburbs.",
+      "title": "Best Psychic Brisbane | Clairvoyant & Medium Readings | Susan Carrier",
+      "description": "Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit guides & demon protection. Call (07) 3843 6419.",
       "h1_count": 3,
       "h1_samples": [
         "LIVE PSYCHIC READINGS \u2013 Only $1.97 Per Minute.",
@@ -62,11 +64,16 @@
       "has_ga4": true,
       "has_perf_tracker": true,
       "has_schema": true,
-      "matched_keywords_count": 3,
+      "matched_keywords_count": 8,
       "matched_keywords": [
         "psychic brisbane",
         "clairvoyant brisbane",
-        "demon protection"
+        "psychic carina",
+        "tarot readings brisbane",
+        "house clearings brisbane",
+        "demon protection",
+        "phone psychic readings australia",
+        "angel readings brisbane"
       ],
       "issues": []
     },
