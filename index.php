@@ -38,36 +38,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Best Psychic Brisbane | Clairvoyant & Medium Readings | Susan Carrier</title>
+<title>Best Psychic Brisbane | Clairvoyant & Medium Readings | Charmaine</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Best Psychic Brisbane, Psychic in Brisbane, Clairvoyant Brisbane, Psychic Medium Brisbane, Tarot Readings Brisbane, Psychic Carina, Psychic Carindale, Phone Psychic Readings Australia, Accurate Psychic Readings, House Clearings Brisbane, Demon Protection Brisbane, Angel Readings Brisbane, Spiritual Healer Brisbane, Susan Carrier">
+<meta name="keywords" content="Best Psychic Brisbane, Psychic in Brisbane, Clairvoyant Brisbane, Psychic Medium Brisbane, Tarot Readings Brisbane, Psychic Carina, Psychic Carindale, Phone Psychic Readings Australia, Accurate Psychic Readings, House Clearings Brisbane, Demon Protection Brisbane, Angel Readings Brisbane, Spiritual Healer Brisbane, Charmaine">
 
-<meta name="description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit guides & demon protection. Call 0411 839 534." />
+<meta name="description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Charmaine. Trusted tarot, spirit guides & demon protection. Call 0411 839 534." />
 <meta name="google-site-verification" content="u9dCa-ciLErUswYoB5K86i4VwXrvB61rSPr24h7siJ4" />
 
 <!-- ✅ Open Graph Meta Tags -->
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Best Psychic Brisbane | Clairvoyant & Medium Readings | Susan Carrier" />
-<meta property="og:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit communication, demon protection & house clearings. Call 0411 839 534." />
+<meta property="og:title" content="Best Psychic Brisbane | Clairvoyant & Medium Readings | Charmaine" />
+<meta property="og:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Charmaine. Trusted tarot, spirit communication, demon protection & house clearings. Call 0411 839 534." />
 <meta property="og:url" content="https://www.susancarrier.com/" />
-<meta property="og:image" content="https://www.susancarrier.com/images/susan.jpg" />
+<meta property="og:image" content="https://www.susancarrier.com/images/charmaine.jpg" />
 
 <!-- ✅ Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Best Psychic Brisbane | Clairvoyant & Medium Readings | Susan Carrier" />
-<meta name="twitter:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit communication, demon protection & house clearings. Call 0411 839 534." />
-<meta name="twitter:image" content="https://www.susancarrier.com/images/susan.jpg" />
+<meta name="twitter:title" content="Best Psychic Brisbane | Clairvoyant & Medium Readings | Charmaine" />
+<meta name="twitter:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Charmaine. Trusted tarot, spirit communication, demon protection & house clearings. Call 0411 839 534." />
+<meta name="twitter:image" content="https://www.susancarrier.com/images/charmaine.jpg" />
 <!-- ✅ JSON-LD Schema Markup with LocalBusiness & FAQPage for Google Page 1 Rich Results -->
-<script type="application/ld+json">
-{
+<script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "LocalBusiness",
       "@id": "https://www.susancarrier.com/#business",
-      "name": "Susan Carrier - Psychic & Clairvoyant Brisbane",
-      "image": "https://www.susancarrier.com/images/susan.jpg",
+      "name": "Charmaine - Psychic & Clairvoyant Brisbane",
+      "image": "https://www.susancarrier.com/images/charmaine.jpg",
       "url": "https://www.susancarrier.com",
       "telephone": "0411 839 534",
       "priceRange": "$50 - $170",
@@ -85,12 +84,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "longitude": 153.0251
       },
       "openingHours": "Mo-Sa 10:00-18:00",
-      "description": "Susan Carrier is a renowned psychic, clairvoyant, and spiritual medium in Brisbane providing accurate phone and in-person readings, tarot, demon protection, and clairvoyant manual guides.",
+      "description": "Charmaine is a renowned psychic, clairvoyant, and spiritual medium in Brisbane providing accurate phone and in-person readings, tarot, demon protection, and clairvoyant manual guides.",
       "areaServed": [
-        "Brisbane", "Carina", "South Bank", "Wynnum", "Chermside", "New Farm", "Paddington",
-        "Mt Gravatt", "Upper Mt Gravatt", "Indooroopilly", "Sunnybank", "Fortitude Valley",
-        "Coorparoo", "Manly", "West End", "Bulimba", "Hamilton", "Toowong", "Ascot",
-        "Morningside", "Camp Hill", "Carindale", "Cannon Hill", "Gold Coast", "Canberra"
+        "Brisbane",
+        "Carina",
+        "South Bank",
+        "Wynnum",
+        "Chermside",
+        "New Farm",
+        "Paddington",
+        "Mt Gravatt",
+        "Upper Mt Gravatt",
+        "Indooroopilly",
+        "Sunnybank",
+        "Fortitude Valley",
+        "Coorparoo",
+        "Manly",
+        "West End",
+        "Bulimba",
+        "Hamilton",
+        "Toowong",
+        "Ascot",
+        "Morningside",
+        "Camp Hill",
+        "Carindale",
+        "Cannon Hill",
+        "Gold Coast",
+        "Canberra"
       ],
       "sameAs": [
         "https://www.facebook.com/susancarrierpsychic",
@@ -100,7 +120,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {
       "@type": "Person",
       "@id": "https://www.susancarrier.com/#person",
-      "name": "Susan Carrier",
+      "name": "Charmaine",
       "jobTitle": "Psychic Medium & Clairvoyant",
       "url": "https://www.susancarrier.com",
       "sameAs": [
@@ -114,10 +134,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What services does Susan Carrier offer in Brisbane?",
+          "name": "What services does Charmaine offer in Brisbane?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Susan Carrier provides accurate psychic readings, clairvoyant sessions, mediumship to connect with loved ones, tarot guidance, pet readings, spiritual warfare protection, and psychic tuition."
+            "text": "Charmaine provides accurate psychic readings, clairvoyant sessions, mediumship to connect with loved ones, tarot guidance, pet readings, spiritual warfare protection, and psychic tuition."
           }
         },
         {
@@ -125,12 +145,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "name": "Can I book a psychic reading by phone in Australia?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, Susan Carrier offers 30-minute psychic phone readings across Brisbane, Gold Coast, Sydney, Melbourne, and all of Australia."
+            "text": "Yes, Charmaine offers 30-minute psychic phone readings across Brisbane, Gold Coast, Sydney, Melbourne, and all of Australia."
           }
         },
         {
           "@type": "Question",
-          "name": "How much does a psychic reading cost with Susan Carrier?",
+          "name": "How much does a psychic reading cost with Charmaine?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Psychic readings are available for 30 minutes in person or by phone for $170 AUD, with pensioner discounts available."
@@ -141,14 +161,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "name": "Which Brisbane suburbs are covered for readings?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Susan serves all Brisbane suburbs including Carina, Carindale, Chermside, South Bank, New Farm, Paddington, Mt Gravatt, Wynnum, Indooroopilly, and surrounding Queensland regions."
+            "text": "Charmaine serves all Brisbane suburbs including Carina, Carindale, Chermside, South Bank, New Farm, Paddington, Mt Gravatt, Wynnum, Indooroopilly, and surrounding Queensland regions."
           }
         }
       ]
     }
   ]
-}
-</script>
+}</script>
 
 
 <style>
@@ -271,7 +290,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="top_part">
-	<div class="logo"><a href="/"><img src="images/logo.png" alt="Susan Carrier Clairvoyant Brisbane Logo" width="313" height="91" border="0" /></a></div>
+	<div class="logo"><a href="/"><img src="images/logo.png" alt="Charmaine Clairvoyant Brisbane Logo" width="313" height="91" border="0" /></a></div>
      
     <div class="call_us">Call Us: <br />
     OverSeas (617) and interstate  (07) <br />
@@ -354,7 +373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <img class="mySlides" src="images/bookimg8.jpg" alt="Readings by Kylie Monique Book Cover" style="width:100%">
 <img class="mySlides" src="images/bookimg4.jpg" alt="Readings by Oprah Winfrey Book Cover" style="width:100%">
 <img class="mySlides" src="images/bookimg2.jpg" alt="Readings by Arnold Schwarzenegger Book Cover" style="width:100%">
-<img class="mySlides" src="images/sliderimg4.jpg" alt="Susan Carrier Book Collection Slider" style="width:100%">
+<img class="mySlides" src="images/sliderimg4.jpg" alt="Charmaine Book Collection Slider" style="width:100%">
 </div>
 <script>
 var myIndex = 0;
@@ -374,7 +393,7 @@ function carousel() {
 </script>
 
 <center>
-<a href="https://www.susancarrier.com/robbie_williams.html"><img src="images/readbooks.gif" alt="Read Susan Carrier Books Online" /></a>
+<a href="https://www.susancarrier.com/robbie_williams.html"><img src="images/readbooks.gif" alt="Read Charmaine Books Online" /></a>
 </center>
 <!--<center>
 <h3 style="color: #000; background: #fff; padding: 20px; font-size:20px">Work from home Make your Computer a money-making machine Daily income If you have lots of contacts in your email box, this is the business for you 20 minutes a day, for an income coming in every day...<a href="https://www.thehappyhomemailer.com/charmainethegoodone">Click Here</a></h3>
@@ -409,9 +428,9 @@ In Brisbane? Face to Face Psychic Readings Available – Bookings Essential.
 <div class="contain">
 <div class="col-sm-4">
 	<div class="contain_left"> 
-	<img src="images/middle_contain.png" alt="Susan Carrier Clairvoyant Reading Services Illustration" width="207" height="207" border="0" style="float:left; padding:0; margin:0; clear:none; min-width:0px"/> 
+	<img src="images/middle_contain.png" alt="Charmaine Clairvoyant Reading Services Illustration" width="207" height="207" border="0" style="float:left; padding:0; margin:0; clear:none; min-width:0px"/> 
 	<img src="images/brackets.png" alt="Section divider bracket" border="0"  style="float:left; padding:0; margin:0; clear:none; min-width:0px"/></div>
-	<div class=""><a href="haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif" alt="Wanted: Haunted House Clearing Services - Contact Susan Carrier"></a></div>
+	<div class=""><a href="haunted_house.html"><img src="images/Wanted-Haunted-House-btn.gif" alt="Wanted: Haunted House Clearing Services - Contact Charmaine"></a></div>
 	<div class=""><a href="robbie_williams.html"><img src="images/book-btn2.gif" alt="Psychic Clairvoyants Manual Book Guide"></a></div>
 	<div class=""><a href="haunted_house.html"><img src="images/spirit_haunted.gif" alt="Haunted House Spiritual Clearing Services"></a></div>
 	<div class=""><a href="spells.html"><img src="images/spell-btn.gif" alt="Demon Spell Protection Courses"></a></div>
@@ -447,17 +466,17 @@ BSB 484 799</p>
 </div>
 <div class="col-sm-12">
 <div class="contain_right">
-  <h1 class="page-title" style="font-size:26px;color:#fff;margin-bottom:15px;">Trusted Psychic &amp; Clairvoyant in Brisbane – Susan Carrier</h1>
+  <h1 class="page-title" style="font-size:26px;color:#fff;margin-bottom:15px;">Trusted Psychic &amp; Clairvoyant in Brisbane – Charmaine</h1>
   
-  <p>Susan Carrier is a renowned Australian Psychic, Clairvoyant, and Spiritual Medium offering accurate, deeply insightful readings. Connect with your Guardian Angels and receive honest spiritual guidance regarding relationships, career pathways, health, wealth, pets, and passed loved ones.</p>
-  <p>With over 30 years of intuitive experience, Susan provides accurate answers and helps you discover your true destiny.</p>
+  <p>Charmaine is a renowned Australian Psychic, Clairvoyant, and Spiritual Medium offering accurate, deeply insightful readings. Connect with your Guardian Angels and receive honest spiritual guidance regarding relationships, career pathways, health, wealth, pets, and passed loved ones.</p>
+  <p>With over 30 years of intuitive experience, Charmaine provides accurate answers and helps you discover your true destiny.</p>
   
   <div style="background: #D4AF37; color: #000; padding: 10px; text-align: center; font-weight: bold; font-size: 18px; border-radius: 4px; margin: 15px 0;">
     🌟 Pensioner &amp; Senior Discounts Available | 30-Minute Phone &amp; In-Person Readings
   </div>
 
   <h2 style="color:#ffcc00;font-size:22px;margin-top:25px;">Psychic Readings Across Brisbane Suburbs &amp; Queensland</h2>
-  <p>Susan offers in-person consultations in Carina (Brisbane) and phone readings across Australia. Explore our dedicated regional reading guides:</p>
+  <p>Charmaine offers in-person consultations in Carina (Brisbane) and phone readings across Australia. Explore our dedicated regional reading guides:</p>
   
   <!-- Local Suburb Cluster Linking Grid -->
   <div style="display:flex;flex-wrap:wrap;gap:10px;margin:15px 0 25px 0;">
@@ -473,20 +492,20 @@ BSB 484 799</p>
   </div>
 
   <h2 style="color:#ffcc00;font-size:22px;margin-top:25px;">Spiritual Guidance, Demon Protection &amp; Psychic Books</h2>
-  <p>In addition to live psychic readings, Susan Carrier is the author of <em>The New Age Bible - Clairvoyant Manual</em> and offers spiritual warfare protection, aura cleansing, and reiki healing.</p>
+  <p>In addition to live psychic readings, Charmaine is the author of <em>The New Age Bible - Clairvoyant Manual</em> and offers spiritual warfare protection, aura cleansing, and reiki healing.</p>
 
   <!-- On-Page FAQ Section for Google Page 1 Rich Snippets -->
   <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; margin-top: 30px; border: 1px solid rgba(255,255,255,0.1);">
     <h2 style="color: #ffcc00; font-size: 22px; margin-top: 0;">Frequently Asked Questions (FAQ)</h2>
     
     <div style="margin-bottom: 15px;">
-      <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">What services does Susan Carrier offer in Brisbane?</h3>
-      <p style="color: #ddd; margin: 0;">Susan Carrier provides accurate psychic readings, clairvoyant sessions, mediumship to connect with loved ones, tarot guidance, pet readings, spiritual warfare protection, and psychic tuition.</p>
+      <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">What services does Charmaine offer in Brisbane?</h3>
+      <p style="color: #ddd; margin: 0;">Charmaine provides accurate psychic readings, clairvoyant sessions, mediumship to connect with loved ones, tarot guidance, pet readings, spiritual warfare protection, and psychic tuition.</p>
     </div>
 
     <div style="margin-bottom: 15px;">
       <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">Can I book a psychic reading by phone in Australia?</h3>
-      <p style="color: #ddd; margin: 0;">Yes, Susan Carrier offers 30-minute psychic phone readings across Brisbane, Gold Coast, Sydney, Melbourne, and all of Australia.</p>
+      <p style="color: #ddd; margin: 0;">Yes, Charmaine offers 30-minute psychic phone readings across Brisbane, Gold Coast, Sydney, Melbourne, and all of Australia.</p>
     </div>
 
     <div style="margin-bottom: 15px;">
@@ -496,7 +515,7 @@ BSB 484 799</p>
 
     <div>
       <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">Which Brisbane suburbs are covered for readings?</h3>
-      <p style="color: #ddd; margin: 0;">Susan serves all Brisbane suburbs including Carina, Carindale, Chermside, South Bank, New Farm, Paddington, Mt Gravatt, Wynnum, Indooroopilly, and surrounding Queensland regions.</p>
+      <p style="color: #ddd; margin: 0;">Charmaine serves all Brisbane suburbs including Carina, Carindale, Chermside, South Bank, New Farm, Paddington, Mt Gravatt, Wynnum, Indooroopilly, and surrounding Queensland regions.</p>
     </div>
   </div>
 </div>
@@ -523,7 +542,7 @@ BSB 484 799</p>
                 <script type="text/javascript">
 (function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/9/5/9597706e796728290520a29ccde81226/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
 </script>
-                <p>For more about SUSAN CARRIER please contact us.<br />
+                <p>For more about CHARMAINE please contact us.<br />
 				<!--610 Darcy Road Carina Brisbane 4152<br />-->
 				sue_carrier2003@yahoo.com
 				</p>
@@ -561,7 +580,7 @@ BSB 484 799</p>
 <!--</div>
  <div class="row">
  	<div class="col-sm-12">
-<div class="txt"><a href="mailto:sue_carrier2003@yahoo.com.au">Mail Us</a> | <a href="terms&condition.html"> Tearm & Condition</a> | <a href="privacypolicy.html"> Privacy Policy</a> | Copyright © 2013 Susan Carrier . All Rights Reserved.</div>
+<div class="txt"><a href="mailto:sue_carrier2003@yahoo.com.au">Mail Us</a> | <a href="terms&condition.html"> Tearm & Condition</a> | <a href="privacypolicy.html"> Privacy Policy</a> | Copyright © 2013 Charmaine . All Rights Reserved.</div>
 	</div>
     </div>
 </div>
@@ -582,7 +601,7 @@ BSB 484 799</p>
 
  <!-- Google Map Location -->
   <section style="text-align: center; padding: 40px 20px; background-color: #12132b;">
-    <h2 style="color: #ffd700;">Visit Susan Carrier</h2>
+    <h2 style="color: #ffd700;">Visit Charmaine</h2>
     <p style="font-size: 16px;">
       📍 610 Darcy Road, Carina, Brisbane, QLD 4152, Australia
     </p>
@@ -617,7 +636,7 @@ BSB 484 799</p>
             <a href="mailto:sue_carrier2003@yahoo.com.au" style="color: #00bfff;">Mail Us</a> |
             <a href="terms&condition.html" style="color: #00bfff;">Terms & Conditions</a> |
             <a href="privacypolicy.html" style="color: #00bfff;">Privacy Policy</a>
-            <p style="margin-top: 10px;">© 2025 Susan Carrier. All Rights Reserved.</p>
+            <p style="margin-top: 10px;">© 2025 Charmaine. All Rights Reserved.</p>
           </div>
         </div>
       </div>

@@ -151,7 +151,7 @@ echo '<div class="errormsgbox"> <ol>';
 <meta name="keywords" content="Angle Reading Brisbane, Psychic Tuition Brisbane, Psychic Book Brisbane, Reiki courses in  Brisbane, Clairvoyant Books brisbane, Demon Protection brisbane, Psychic in Brisbane, Clairvoyant in Brisbane" />
 <meta name="description" content="we are psychic, clairvoyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97." />
 
-<title>Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angle Reading Brisbane</title>
+<title>Clairvoyant in Brisbane | Charmaine | Psychic Book | Angle Reading Brisbane</title>
 <link href="stylesheet.css" rel="stylesheet" type="text/css" />
 <link href='https://fonts.googleapis.com/css?family=Signika+Negative:400,600' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Cabin:400,500' rel='stylesheet' type='text/css'>
@@ -300,7 +300,7 @@ In Brisbane? Face to Face Readings Available – Bookings Essential.
 
 	<div class="footer_wrapper">
             	
-            	<div class="ftr_left"><h1>Contant Susan</h1>
+            	<div class="ftr_left"><h1>Contant Charmaine</h1>
                 	<form id="formID" class="formular" method="post" action="http://www.susancarrier.com/Mailer.php">
                
                <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -362,7 +362,7 @@ In Brisbane? Face to Face Readings Available – Bookings Essential.
     
   </div>
     <div style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;"> <img src="images/footer_brd.png" /></div>
-    <div class="txt">Copyright © 2013 Susan Carrier . All Rights Reserved.</div>
+    <div class="txt">Copyright © 2013 Charmaine . All Rights Reserved.</div>
 </div>
 <!--MIDDLE PART END-->
 </body>

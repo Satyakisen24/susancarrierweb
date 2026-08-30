@@ -3,10 +3,10 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Best Psychic,  Best Psychic Brisbane , Psychic in Brisbane, psychic, clairvoyant, medium, Psychic teacher, Charmaine, haunted house, clearings, spells, spell protection,best psychic reading Brisbane, house clearings...Tarot,Psychic book,psychic teacher, clairvoyant medium, clairvoyant Brisbane, Susan Carrier, The Good One, Charmaine The Good One, Charmaine, Psychic, psychic in Brisbane, Psychic Brisbane, Adelaide, Perth, Sydney, Melbourne, Brisbane, Angel Readings, Medium , Medium Readings, Tarot cards, Taro, Future Readings....Read your future,  Read your future Readings" />
+<meta name="keywords" content="Best Psychic,  Best Psychic Brisbane , Psychic in Brisbane, psychic, clairvoyant, medium, Psychic teacher, Charmaine, haunted house, clearings, spells, spell protection,best psychic reading Brisbane, house clearings...Tarot,Psychic book,psychic teacher, clairvoyant medium, clairvoyant Brisbane, Charmaine, The Good One, Charmaine The Good One, Charmaine, Psychic, psychic in Brisbane, Psychic Brisbane, Adelaide, Perth, Sydney, Melbourne, Brisbane, Angel Readings, Medium , Medium Readings, Tarot cards, Taro, Future Readings....Read your future,  Read your future Readings" />
 <meta name="description" content="we are psychic, clairvoyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97." />
 
-<title>Clairvoyant in Brisbane | Susan Carrier | Psychic Book | Angle Reading Brisbane</title>
+<title>Clairvoyant in Brisbane | Charmaine | Psychic Book | Angle Reading Brisbane</title>
 
 
 <style>
@@ -302,7 +302,7 @@ BSB 484 799</p>
 <div class="contain_right"><h1>One of Australia's Leading Psychics  !</h1><br />
 <br /><br />
 
-<p>Susan Carrier is a well-known Psychic Clairvoyant Medium Teacher, who is regularly sort after by the Media. She can give you accurate psychic readings from Guardian Angles on your relationships, career, pets, passed loved ones, wealth and your health.</p>
+<p>Charmaine is a well-known Psychic Clairvoyant Medium Teacher, who is regularly sort after by the Media. She can give you accurate psychic readings from Guardian Angles on your relationships, career, pets, passed loved ones, wealth and your health.</p>
 <p>Also 99% of the time she can predict what you do for a career or tell you what you really should be doing for a career.</p>
 <p style="color: #000;
     background: #D4AF37;
@@ -348,7 +348,7 @@ BSB 484 799</p>
                 <script type="text/javascript">
 (function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/9/5/9597706e796728290520a29ccde81226/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
 </script>
-                <p>for more about SUSAN CARRIER please contact us.<br />
+                <p>for more about CHARMAINE please contact us.<br />
 				610 Darcy Road Carina Brisbane 4152<br />
 				sue_carrier2003@yahoo.com
 				</p>
@@ -386,7 +386,7 @@ BSB 484 799</p>
 </div>
  <div class="row">
  	<div class="col-sm-12">
-<div class="txt"><a href="mailto:sue_carrier2003@yahoo.com.au">Mail Us</a> | <a href="terms&condition.html"> Tearm & Condition</a> | <a href="privacypolicy.html"> Privacy Policy</a> | Copyright © 2013 Susan Carrier . All Rights Reserved.</div>
+<div class="txt"><a href="mailto:sue_carrier2003@yahoo.com.au">Mail Us</a> | <a href="terms&condition.html"> Tearm & Condition</a> | <a href="privacypolicy.html"> Privacy Policy</a> | Copyright © 2013 Charmaine . All Rights Reserved.</div>
 	</div>
     </div>
 </div>

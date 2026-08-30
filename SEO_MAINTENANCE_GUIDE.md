@@ -1,6 +1,6 @@
 # 🛡️ SusanCarrier.com - Monthly SEO Maintenance & Rank Retention Guide
 
-This guide contains the routine maintenance procedures to retain **Page 1 Google Rankings** for *Susan Carrier - Psychic & Clairvoyant Brisbane*.
+This guide contains the routine maintenance procedures to retain **Page 1 Google Rankings** for *Charmaine - Psychic & Clairvoyant Brisbane*.
 
 ---
 
@@ -32,7 +32,7 @@ This guide contains the routine maintenance procedures to retain **Page 1 Google
 
 ### 4. 📍 Directory Consistency (NAP Check)
 Ensure the following business details are consistent across all directories:
-- **Business Name**: `Susan Carrier - Psychic & Clairvoyant Brisbane`
+- **Business Name**: `Charmaine - Psychic & Clairvoyant Brisbane`
 - **Address**: `610 Darcy Road, Carina, Brisbane, QLD 4152, Australia`
 - **Phone**: `0411 839 534` / `0411 839 534`
 - **Website**: `https://www.susancarrier.com/`
