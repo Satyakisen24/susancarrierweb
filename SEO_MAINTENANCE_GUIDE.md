@@ -25,7 +25,7 @@ This guide contains the routine maintenance procedures to retain **Page 1 Google
 
 ### 3. 📝 Content Freshness & Testimonials (Quarterly - 15 mins)
 - [ ] Update client testimonials on the homepage with new real feedback.
-- [ ] Ensure special offers, prices ($100 AUD / 30 mins), and phone numbers (`+61 0738436419`) remain 100% accurate.
+- [ ] Ensure special offers, prices ($100 AUD / 30 mins), and phone numbers (`0411 839 534`) remain 100% accurate.
 - [ ] Check that `sitemap.xml` `<lastmod>` timestamps stay updated when major edits are made.
 
 ---
@@ -34,7 +34,7 @@ This guide contains the routine maintenance procedures to retain **Page 1 Google
 Ensure the following business details are consistent across all directories:
 - **Business Name**: `Susan Carrier - Psychic & Clairvoyant Brisbane`
 - **Address**: `610 Darcy Road, Carina, Brisbane, QLD 4152, Australia`
-- **Phone**: `(07) 3843 6419` / `0411 839 534`
+- **Phone**: `0411 839 534` / `0411 839 534`
 - **Website**: `https://www.susancarrier.com/`
 
 **Key Australian Directories to Monitor**:

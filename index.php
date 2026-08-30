@@ -43,20 +43,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Best Psychic Brisbane, Psychic in Brisbane, Clairvoyant Brisbane, Psychic Medium Brisbane, Tarot Readings Brisbane, Psychic Carina, Psychic Carindale, Phone Psychic Readings Australia, Accurate Psychic Readings, House Clearings Brisbane, Demon Protection Brisbane, Angel Readings Brisbane, Spiritual Healer Brisbane, Susan Carrier">
 
-<meta name="description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit guides & demon protection. Call (07) 3843 6419." />
+<meta name="description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit guides & demon protection. Call 0411 839 534." />
 <meta name="google-site-verification" content="u9dCa-ciLErUswYoB5K86i4VwXrvB61rSPr24h7siJ4" />
 
 <!-- ✅ Open Graph Meta Tags -->
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Psychic Brisbane | Clairvoyant & Medium Readings | Susan Carrier" />
-<meta property="og:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit communication, demon protection & house clearings. Call (07) 3843 6419." />
+<meta property="og:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit communication, demon protection & house clearings. Call 0411 839 534." />
 <meta property="og:url" content="https://www.susancarrier.com/" />
 <meta property="og:image" content="https://www.susancarrier.com/images/susan.jpg" />
 
 <!-- ✅ Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Best Psychic Brisbane | Clairvoyant & Medium Readings | Susan Carrier" />
-<meta name="twitter:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit communication, demon protection & house clearings. Call (07) 3843 6419." />
+<meta name="twitter:description" content="Accurate psychic, clairvoyant & medium readings in Brisbane by Susan Carrier. Trusted tarot, spirit communication, demon protection & house clearings. Call 0411 839 534." />
 <meta name="twitter:image" content="https://www.susancarrier.com/images/susan.jpg" />
 <!-- ✅ JSON-LD Schema Markup with LocalBusiness & FAQPage for Google Page 1 Rich Results -->
 <script type="application/ld+json">
@@ -69,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "name": "Susan Carrier - Psychic & Clairvoyant Brisbane",
       "image": "https://www.susancarrier.com/images/susan.jpg",
       "url": "https://www.susancarrier.com",
-      "telephone": "+61 0738436419",
+      "telephone": "0411 839 534",
       "priceRange": "$50 - $100",
       "address": {
         "@type": "PostalAddress",
@@ -275,7 +275,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      
     <div class="call_us">Call Us: <br />
     OverSeas (617) and interstate  (07) <br />
-    <strong>073843 6419 </strong><br />
+    <strong>0411 839 534 </strong><br />
 	(Available 24x7)<br />
 	sue_carrier2003@yahoo.com.au
 </div>
