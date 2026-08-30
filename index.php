@@ -70,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "image": "https://www.susancarrier.com/images/susan.jpg",
       "url": "https://www.susancarrier.com",
       "telephone": "0411 839 534",
-      "priceRange": "$50 - $100",
+      "priceRange": "$50 - $170",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "610 Darcy Road Carina",
@@ -133,7 +133,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "name": "How much does a psychic reading cost with Susan Carrier?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Psychic readings are available for 30 minutes in person or by phone for $100 AUD, with pensioner discounts available."
+            "text": "Psychic readings are available for 30 minutes in person or by phone for $170 AUD, with pensioner discounts available."
           }
         },
         {
@@ -491,7 +491,7 @@ BSB 484 799</p>
 
     <div style="margin-bottom: 15px;">
       <h3 style="color: #fff; font-size: 16px; margin-bottom: 5px;">How much does a psychic reading cost?</h3>
-      <p style="color: #ddd; margin: 0;">Psychic readings are available for 30 minutes in person or by phone for $100 AUD, with pensioner discounts available.</p>
+      <p style="color: #ddd; margin: 0;">Psychic readings are available for 30 minutes in person or by phone for $170 AUD, with pensioner discounts available.</p>
     </div>
 
     <div>
@@ -531,12 +531,12 @@ BSB 484 799</p>
            		</div>  
                 
 <div  class="ftr_right" align="center">
-<p style="color:#fff">30 Minutes Psychic Readings by Phone</p>
+<p style="color:#fff">30 Minutes Psychic Readings by Phone - $170</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_xclick" />
 <input type="hidden" name="business" value="sue_carrier2003@yahoo.com.au"/>
-<input type="hidden" name="item_name" value="30 Minutes Readings by Phone for $100.00 AUD"/>
-<input type="hidden" name="amount" value="100"/>
+<input type="hidden" name="item_name" value="30 Minutes Readings by Phone for $170.00 AUD"/>
+<input type="hidden" name="amount" value="170"/>
 <input type="hidden" name="currency_code" value="AUD"/>
 <input type="hidden" name="lc" value="AUD"/>
 <input type="hidden" name="bn" value="btn_buynow_SM.gif"/>
@@ -544,12 +544,12 @@ BSB 484 799</p>
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynow_SM.gif" name="submit" alt="Make payments with PayPal"/>
 </form>
 <hr />
-<p style="color:#fff">30 Minutes Psychic Readings in Person</p>
+<p style="color:#fff">30 Minutes Psychic Readings in Person - $170</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_xclick" />
 <input type="hidden" name="business" value="sue_carrier2003@yahoo.com.au"/>
-<input type="hidden" name="item_name" value="30 Minutes Readings in Person for $100.00 AUD"/>
-<input type="hidden" name="amount" value="100"/>
+<input type="hidden" name="item_name" value="30 Minutes Readings in Person for $170.00 AUD"/>
+<input type="hidden" name="amount" value="170"/>
 <input type="hidden" name="currency_code" value="AUD"/>
 <input type="hidden" name="lc" value="AUD"/>
 <input type="hidden" name="bn" value="btn_buynow_SM.gif"/>

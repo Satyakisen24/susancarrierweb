@@ -25,7 +25,7 @@ This guide contains the routine maintenance procedures to retain **Page 1 Google
 
 ### 3. 📝 Content Freshness & Testimonials (Quarterly - 15 mins)
 - [ ] Update client testimonials on the homepage with new real feedback.
-- [ ] Ensure special offers, prices ($100 AUD / 30 mins), and phone numbers (`0411 839 534`) remain 100% accurate.
+- [ ] Ensure special offers, prices ($170 AUD / 30 mins), and phone numbers (`0411 839 534`) remain 100% accurate.
 - [ ] Check that `sitemap.xml` `<lastmod>` timestamps stay updated when major edits are made.
 
 ---
