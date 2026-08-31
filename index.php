@@ -69,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "image": "https://www.susancarrier.com/images/charmaine.jpg",
       "url": "https://www.susancarrier.com",
       "telephone": "0411 839 534",
-      "priceRange": "$50 - $170",
+      "priceRange": "$170",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "610 Darcy Road Carina",
