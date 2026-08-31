@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-31T22:18:23.626095",
+  "timestamp": "2026-08-31T22:26:53.147336",
   "live_status": {
     "online": true,
     "status_code": 200,
     "domain": "https://www.susancarrier.com"
   },
-  "overall_seo_score": 98,
+  "overall_seo_score": 100,
   "target_keywords": [
     "psychic brisbane",
     "clairvoyant brisbane",
@@ -282,29 +282,26 @@
     },
     {
       "file": "about_us.html",
-      "score": 80,
-      "title": "Charmaine",
-      "description": null,
+      "score": 100,
+      "title": "About Charmaine | Psychic &amp; Clairvoyant Brisbane",
+      "description": "Learn about Charmaine, Brisbane&#39;s trusted psychic clairvoyant medium with 30+ years experience in accurate readings, angel connection &amp; spirit guidance.",
       "h1_count": 0,
       "h1_samples": [],
       "has_ga4": true,
       "has_perf_tracker": true,
-      "has_schema": false,
+      "has_schema": true,
       "matched_keywords_count": 2,
       "matched_keywords": [
         "psychic brisbane",
         "clairvoyant brisbane"
       ],
-      "issues": [
-        "Title length (9 chars) outside optimal 30-70 range",
-        "Missing meta description"
-      ]
+      "issues": []
     },
     {
       "file": "book.html",
-      "score": 80,
-      "title": "Clairvoyant in Brisbane | Charmaine | Psychic Book | Angle Reading Brisbane",
-      "description": "we are psychic, clairvoyant in brisbane. we provide psychic tuition, psychic book, reiki courses, clairvoyant books, demon protection in brisbane. Here we do live psychic readings only at $1.97.",
+      "score": 100,
+      "title": "Psychic Books &amp; Clairvoyant Manuals | Charmaine Brisbane",
+      "description": "Discover psychic books and clairvoyant manuals by Charmaine in Brisbane. Learn spiritual development, angel connections, and demon protection.",
       "h1_count": 2,
       "h1_samples": [
         "BOOKS",
@@ -312,17 +309,14 @@
       ],
       "has_ga4": true,
       "has_perf_tracker": true,
-      "has_schema": false,
+      "has_schema": true,
       "matched_keywords_count": 3,
       "matched_keywords": [
         "psychic brisbane",
         "clairvoyant brisbane",
         "demon protection"
       ],
-      "issues": [
-        "Title length (75 chars) outside optimal 30-70 range",
-        "Meta description length (194 chars) outside optimal 70-170 range"
-      ]
+      "issues": []
     },
     {
       "file": "reiki.html",
