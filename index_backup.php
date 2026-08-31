@@ -129,7 +129,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="top_part">
-	<div class="logo"><a href="index.html"><img src="images/logo.png" width="313" height="91" border="0" /></a></div>
+	<div class="logo"><a href="index.html"><img src="images/logo.png" alt="Charmaine - The Beauty and Soul" title="Charmaine - The Beauty and Soul" width="313" height="91" border="0" /></a></div>
      
     <div class="call_us">Call Us: <br />
     OverSeas (617) and interstate  (07) <br />

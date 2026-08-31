@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&display=swap');
 /* CSS Document */
 
 *
@@ -18,9 +19,17 @@ body
 
 .header
 {
-	width:1600px;
-	height:114px;
-	background:url(../images/header_bg.png) no-repeat;
+	width:100%;
+	max-width:1200px;
+	min-height:114px;
+	margin:0 auto;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding:12px 24px;
+	box-sizing:border-box;
+	background:url(../images/header_bg.png) no-repeat center center;
+	background-size:cover;
 }
 
 .wrapper
@@ -277,50 +286,71 @@ body
 
 .header_logo
 {
-	position:relative;
-	left:180px;
-	top:15px;
-	width:369px;
-	float:left;
+	position:static;
+	width:auto;
+	float:none;
+	display:flex;
+	flex-direction:column;
+	align-items:flex-start;
+	justify-content:center;
 }
 
 .header_text
 {
-	color:#FFFFFF;
-	font-family:Tahoma;
-	font-size:50px;
+	color:#ffd700;
+	font-family:'Cinzel', serif;
+	font-size:38px;
+	font-weight:700;
 	text-transform:uppercase;
-	text-shadow:#666666 1px;
+	text-shadow:0 0 12px rgba(255, 215, 0, 0.4), 0 2px 4px rgba(0, 0, 0, 0.8);
+	letter-spacing:2px;
+	line-height:1.1;
+}
+
+.header_text span
+{
+	color:#e21ec2 !important;
 }
 
 .header_sub_text
 {
-	color:#FFFFFF;
-	font-family:Tahoma;
-	font-size:20px;
-	position:relative;
-	left:220px;
+	color:#ffffff;
+	font-family:'Cinzel', serif;
+	font-size:15px;
+	font-weight:600;
+	letter-spacing:5px;
+	text-transform:uppercase;
+	position:static;
+	left:0;
+	margin-top:6px;
+	text-shadow:0 0 8px rgba(226, 30, 194, 0.4), 0 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .header_contact
 {
-	float:left;
+	position:static;
+	float:none;
+	left:0;
+	top:0;
+	text-align:right;
 	color:#FFFFFF;
-	font-family:Tahoma;
-	widows:262px;
-	position:relative;
-	left:650px;
-	top:25px;
+	font-family:'Cinzel', Tahoma, sans-serif;
 }
 
 .header_contact_top
 {
-	font-size:35px;
+	font-size:26px;
+	font-weight:bold;
+	color:#ffd700;
+	text-shadow:0 0 10px rgba(255, 215, 0, 0.3);
 }
 
 .header_contact_bottom
 {
-	font-size:22px;
+	font-size:15px;
+	color:#e21ec2;
+	font-family:'Cabin', Tahoma, sans-serif;
+	letter-spacing:1px;
 }
 
 .banner1_text
@@ -447,4 +477,34 @@ body
 .slideshow {
     margin: 0;
     background:#fff;
+}
+
+/* Responsive Header Styles */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column !important;
+    text-align: center !important;
+    min-height: auto !important;
+    padding: 15px 10px !important;
+  }
+  .header_logo {
+    align-items: center !important;
+    margin-bottom: 12px !important;
+  }
+  .header_text {
+    font-size: 28px !important;
+  }
+  .header_sub_text {
+    font-size: 12px !important;
+    letter-spacing: 3px !important;
+  }
+  .header_contact {
+    text-align: center !important;
+  }
+  .header_contact_top {
+    font-size: 22px !important;
+  }
+  .header_contact_bottom {
+    font-size: 14px !important;
+  }
 }

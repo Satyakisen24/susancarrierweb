@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&display=swap');
 /* CSS Document */
 
 body
@@ -425,4 +426,42 @@ footer a, .footer_banner a {
 
 footer a:hover, .footer_banner a:hover {
   color: #e21ec2 !important;
+}
+
+/* ==========================================================================
+   Logo & Header Enhancements (Desktop & Mobile)
+   ========================================================================== */
+.logo {
+  max-width: 340px;
+}
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.4));
+}
+
+@media (max-width: 768px) {
+  .top_part {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100% !important;
+  }
+  .logo {
+    float: none !important;
+    margin: 15px auto !important;
+    text-align: center;
+  }
+  .logo img {
+    margin: 0 auto;
+  }
+  .call_us {
+    float: none !important;
+    margin: 10px auto 20px auto !important;
+    width: 90% !important;
+    max-width: 320px;
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T19:28:16.178017",
+  "timestamp": "2026-08-31T22:18:23.626095",
   "live_status": {
     "online": true,
     "status_code": 200,
@@ -38,7 +38,7 @@
       "has_ga4": true,
       "has_perf_tracker": true,
       "has_schema": true,
-      "matched_keywords_count": 8,
+      "matched_keywords_count": 12,
       "matched_keywords": [
         "psychic brisbane",
         "clairvoyant brisbane",
@@ -47,7 +47,11 @@
         "house clearings brisbane",
         "demon protection",
         "phone psychic readings australia",
-        "angel readings brisbane"
+        "angel readings brisbane",
+        "psychic chermside",
+        "psychic south bank",
+        "psychic new farm",
+        "psychic paddington"
       ],
       "issues": []
     },
@@ -64,7 +68,7 @@
       "has_ga4": true,
       "has_perf_tracker": true,
       "has_schema": true,
-      "matched_keywords_count": 8,
+      "matched_keywords_count": 12,
       "matched_keywords": [
         "psychic brisbane",
         "clairvoyant brisbane",
@@ -73,7 +77,11 @@
         "house clearings brisbane",
         "demon protection",
         "phone psychic readings australia",
-        "angel readings brisbane"
+        "angel readings brisbane",
+        "psychic chermside",
+        "psychic south bank",
+        "psychic new farm",
+        "psychic paddington"
       ],
       "issues": []
     },

@@ -1,13 +1,15 @@
 <?php
 
-$file_url = 'http://www.susancarrier.com/charmanies_pyschic.pdf';
+$file_name = 'charmaines_psychic.pdf';
+$file_path = 'brochure.pdf';
 
 header('Content-Type: application/octet-stream');
-
 header("Content-Transfer-Encoding: Binary"); 
+header("Content-disposition: attachment; filename=\"" . $file_name . "\""); 
 
-header("Content-disposition: attachment; filename=\"" . basename($file_url) . "\""); 
-
-readfile($file_url);
-
+if (file_exists($file_path)) {
+    readfile($file_path);
+} else {
+    readfile('https://www.susancarrier.com/brochure.pdf');
+}
 ?>
